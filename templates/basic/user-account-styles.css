@@ -1,0 +1,777 @@
+/* USER ACCOUNT*/
+.easywpm-user-dahsboard-cont { 
+	position:relative; 
+	max-width:1600px; 
+	width:100%;
+	text-align:left;
+	margin-top:20px
+
+}
+
+.easywpm-user-dahsboard-cont a{ text-decoration:none; box-shadow:none; -webkit-box-shadow:none; 
+
+}
+
+
+.easywpm-user-dahsboard-cont h2{ font-size:18px; position:relative; 
+
+}
+
+span.easywpm-widget-backend-colspan{ position:absolute; right:5px; top:10px}
+span.easywpm-widget-backend-colspan a{ font-size:24px; color:#474747}
+span.easywpm-widget-backend-colspan i{ font-size:24px}
+
+
+
+/*Order Details*/
+
+.easywpm-subscriptiondetail-header-details { padding:5px; position:relative; border:1px solid #DBDBDB; background:#fcfcfc }
+
+
+.easywpm-subscriptiondetail-header-details  ul.order_details {
+    margin: 2em 1em 2em 0em;
+    list-style: none;
+}
+
+.easywpm-subscriptiondetail-header-details  ul.order_details li {
+    margin-right: 1em;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    line-height: 1;
+    border-right: 1px dashed #d3ced2;
+    padding-right: 2em;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-type: none;
+    display:inline-block;
+   
+    vertical-align: top;
+}
+
+.easywpm-subscriptiondetail-header-details  ul.order_details li.easywpmwoopaymentmethod {
+	border-right:none;
+    
+
+}
+
+.easywpm-subscriptiondetail-header-details ul.order_details li strong {
+    display: block;
+    font-size: 1.4em;
+    text-transform: none;
+    line-height: 1.5;
+}
+
+/*End*/
+
+.easywpm-user-dahsboard-cont .easywpm-top-header{
+	
+	position:relative; 
+	width:100%; 
+	min-height:110px;
+	background: #fbfbfb ;
+
+}
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-top-options{
+	
+	
+	width:100%; 
+	min-height:100px;
+	background: #fbfbfb ;
+
+}
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-top-options ul { text-align:right; padding-top:5px;
+
+	
+	
+}
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-top-options ul li{
+	list-style:none;
+	display:inline-block;
+	font-size:12px;
+	margin-right:5px;
+}
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-top-options ul li a{
+	text-decoration:none;
+	
+}
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-top-options ul li i{
+	
+	font-size:18px;
+	color:#666;	
+}
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-top-options ul li .easywpm-user-menu-text{
+	
+	font-size:16px;
+	margin-left:5px;	
+	
+	
+}
+
+
+
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-nav ul{
+	
+	text-align:right;
+	
+	
+}
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-nav ul li{
+	list-style:none;
+	display:inline-block;
+	font-size:11px;	
+	
+}
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-nav ul li a{
+	display: block
+	
+}
+
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-staff-profile-top{ 
+position:absolute; 
+left:5px; 
+top:-20px; 
+width:200px;
+}
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-staff-profile-name{ 
+position:absolute; 
+left:125px; 
+top:2px; 
+width:200px;
+}
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-staff-profile-name h1{	
+	font-size:26px;
+	margin:0px;
+
+}
+
+.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-staff-profile-name small{	
+	font-size:11px; font-style:italic; padding:0px; margin:0px
+	
+
+}
+
+.easywpm-top-options-book{
+	
+	width:200px;
+	background: none;
+	position:absolute;
+	bottom:10px;	
+	right:10px;
+	text-align:right
+}
+
+
+.easywpm-top-options-book a.easywpm-btn-top1-book{ 
+
+		
+
+		min-height:40px;
+		height:auto !important;
+
+		width:auto;
+
+		padding:10px;
+
+		text-align:left;
+
+		font-size:12px;
+		vertical-align:top;		
+
+		 background: #FFF ; 
+
+		-moz-border-radius: 5px; 
+	     border-radius:5px;
+
+		 color: #FFF;
+		 text-decoration:none;
+		 display:inline-block;
+
+
+
+}
+
+.easywpm-top-options-book a.easywpm-btn-top1-book span{ 
+
+		
+
+}
+
+.easywpm-top-options-book a.easywpm-btn-top1-book span i{
+	margin-right:5px; 
+
+		
+
+}
+
+
+.easywpm-user-dahsboard-cont th {
+  border-bottom: 1px solid #e5e5e5;
+  border-right: 1px solid #e5e5e5;
+  background: #f5f5f5;
+  font-size: 12px;
+  font-weight: normal;
+  text-align: left;
+}
+
+.easywpm-user-dahsboard-cont th, .easywpm-user-dahsboard-cont td {
+  padding: 5px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+ 
+}
+
+.easywpm-user-dahsboard-cont td {
+  border-bottom: 1px solid #e5e5e5;
+  border-right: 1px solid #e5e5e5;
+   font-size:12px;
+}
+
+.easywpm-user-dahsboard-cont .easywpm-main-app-list {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    font-size: 13px;
+    line-height: 2.1em;
+    margin: 14px 0;
+    overflow: hidden;
+    padding: 15px 10px 5px;
+    position: relative;
+}
+
+.easywpm-user-dahsboard-cont .easywpm-common-cont {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    font-size: 13px;
+    line-height: 2.1em;
+    margin: 14px 0;
+   /* overflow: auto;*/
+    padding: 15px 10px 5px;
+    position: relative;
+}
+
+
+
+.easywpm-user-dahsboard-cont .easywpm-main-app-list table td i{ font-size:18px;}
+
+/*AVATAR UPLOAD*/
+.easywpm-user-avatar-default-style{border-radius:50%}
+
+.easywpm-user-dahsboard-cont .easywpm-staff-right-avatar{ width:98%;padding:2px; max-width:700px; position:relative;  min-height:400px ; margin:10px auto 10px auto; text-align:center }
+
+
+.easywpm-user-dahsboard-cont .drag-drop .drag-drop-inside{ margin:0px auto 0px auto;  position:relative }
+.easywpm-user-dahsboard-cont .drag-drop-inside p.drag-drop-info{ font-size:20px}
+.easywpm-user-dahsboard-cont .drag-drop-inside p{ color:#a0a5aa; text-align:center}
+
+.easywpm-user-dahsboard-cont .easywpm-staff-right-avatar h3{ font-size:18px }
+
+.easywpm-user-dahsboard-cont .easywpm-staff-right-avatar .pr_tipb_be{ clear:both; float:none; width:99%; max-height:700px; min-height:99px; margin-top:10px; margin-bottom:10px; padding-bottom:15px;  border:solid 1px #E9E9E9; display:inline-block }
+
+.easywpm-user-dahsboard-cont  .easywpm-staff-right-avatar .pr_tipb_be p{ padding:10px 0px 10px 0px; margin-top:10px;  text-align:center }
+
+.easywpm-user-dahsboard-cont  .easywpm-dialog-user-bg-cropper{margin:0px auto 0px auto }
+
+
+.easywpm-user-dahsboard-cont .avatar {
+border-radius: 50%;
+-moz-border-radius: 50%;
+-webkit-border-radius: 50%;
+}
+
+
+.easywpm-avatar-drag-drop-sector {
+
+	position:relative;
+border: 3px dashed #bbb;
+padding:20px 5px 20px 5px;
+margin:5px auto 5px auto;
+height: auto !important;
+min-height:150px;
+
+
+}
+
+span.easywpm-add-client-m{ position:absolute; right:5px; top:5px}
+span.easywpm-add-client-m a{ font-size:18px; color:#474747}
+span.easywpm-add-client-m i{ font-size:18px}
+
+/**/
+.easywpm-button-change-avatar{ 
+
+ border: none;
+ background:none;
+ text-align:left;
+ padding-left:30px;
+
+}
+
+.easywpm-button-change-avatar i{
+	font-size:20px 
+
+
+}
+
+
+/**/
+
+.easywpm-button-delete-avatar{ 
+
+ border: none;
+ background: #F00 repeat scroll 0 0;
+ color: #FFF;
+ font-size:12px;
+ line-height:30px;
+ width:140px;
+ padding:0 3px;
+ height:30px;
+ text-transform:uppercase;
+ text-decoration:none;
+ cursor:pointer;	
+
+}
+
+.easywpm-button-delete-avatar:hover{ 
+
+	background: #C40000 none repeat scroll 0 0;
+    border:none;
+    box-shadow: none;
+    color: #FFF;
+    text-shadow: none;
+}
+
+.easywpm-button-delete-avatar{ transition: all 0.1s ease-out 0s;}
+
+.easywpm-button-upload-avatar{ 
+
+ border: none;
+ background: #ddd none repeat scroll 0 0;
+ color:#000;
+ font-size:12px;
+ line-height:30px;
+ width:140px;
+ padding:0 3px;
+ height:30px;
+ text-transform:uppercase;
+ text-decoration:none;
+ cursor:pointer;
+ position:relative;
+ margin:0 auto 0 auto;
+ 
+
+}
+
+.easywpm-button-upload-avatar:hover{ 
+
+	background: #ddd none repeat scroll 0 0;
+    border:none;
+    box-shadow: none;
+    color: #000;
+    text-shadow: none;
+}
+
+.easywpm-button-upload-avatar{ transition: all 0.1s ease-out 0s;}
+
+
+
+/*Packages Front*/
+.easywpm-packages-front-list .easywpm-package-list-front{}
+.easywpm-packages-front-list .easywpm-package-list-front .uultra-account-type{ text-align:right; padding-right:5px;}
+.easywpm-packages-front-list .easywpm-package-list-front .uultra-account-type p{ text-align:right !important}
+.easywpm-packages-front-list .easywpm-package-list-front .uultra-account-type span{ font-weight:bold}
+
+.easywpm-packages-front-list  ul{ }
+.easywpm-packages-front-list  ul li{ 
+clear:both; list-style:none; width:96%; margin:10px auto 10px auto;
+ padding:15px 5px 5px 15px; 
+    min-height:60px; 
+    height:auto; 
+    border:solid 1px #EBEBEB; 
+    background-color: #FFFFFF
+ 
+
+
+}
+
+
+.easywpm-packages-front-list .easywpm-package-list-front .uultra-package-opt{ height:60px; margin:5px 0 5px 0px; text-align:left;}
+.easywpm-packages-front-list .easywpm-package-list-front  span.uultra-package-title{ font-size:18px; width:100%; float:none}
+.easywpm-packages-front-list .easywpm-package-list-front  span.uultra-package-cost{  width:35%; float:right; text-align:right; padding-right:10px;}
+
+.easywpm-packages-front-list .uultra-package-desc{ 
+
+float:none; clear:both;height:auto;
+
+ min-height:50px; 
+ margin:5px 0 5px 0px; 
+
+ padding:10px;
+
+
+}
+
+
+
+.easywpm-packages-front-list .uultra-package-desc p{
+	 text-align:left;
+	 font-size:14px;}
+	 
+	 
+
+
+
+/*END Upgrade Packages*/
+
+
+
+
+.easywpm-user-dahsboard-cont .easywpm-profile-separator{ clear:both; position:relative;
+
+	border-bottom: 1px solid #DBDBDB;
+	margin-bottom: 30px;
+	margin-top: 15px;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding:0 0 10px 0;
+	color: #333;
+	text-align:left;
+}
+
+.easywpm-user-dahsboard-cont .easywpm-cc-frm-left{ display:inline-block; width:200px; text-align:left;vertical-align:top; padding-left:20px}
+.easywpm-user-dahsboard-cont .easywpm-cc-frm-right{ display:inline-block; width:auto; vertical-align:top}
+
+
+.easywpm-user-dahsboard-cont .easywpm-profile-field-cc{ position:relative; height:auto; margin:10px 0px 0px 0px; width:99%; text-align:left}
+.easywpm-user-dahsboard-cont .easywpm-profile-field{ clear:both; position:relative; height:auto; margin:10px 0px 0px 0px; padding:10px 0px 5px 10px; display:inline-block; width:100%}
+.easywpm-user-dahsboard-cont .easywpm-profile-field li{ list-style:none  }
+
+.easywpm-user-dahsboard-cont .easywpm-profile-field-half{ width:50%}
+.easywpm-user-dahsboard-cont .easywpm-profile-field span{ font-size:14px; color:#666}
+.easywpm-user-dahsboard-cont .easywpm-field-type{ display:inline-block; width:99%; text-align:left; vertical-align:top}
+.easywpm-user-dahsboard-cont .easywpm-field-type img{ position:relative !important}
+.easywpm-user-dahsboard-cont .easywpm-field-type label{ display:inline}
+
+
+/*for custom fields*/
+.easywpm-user-dahsboard-cont .easywpm-custom-fields{ position:relative; margin:10px 0px 0px 0px }
+
+/*.easywpm-front-cont .easywpm-field-value{ display:inline-block; width:99%; vertical-align:top; text-align:left; margin:5px 0px 5px 0px}*/
+
+
+.easywpm-user-dahsboard-cont .easywpm-field-value ul{ position:relative; margin:0px; padding:0px; text-align:left }
+.easywpm-user-dahsboard-cont .easywpm-field-value ul li{ list-style:none; margin:10px 0px 0px 0px }
+
+.easywpm-user-dahsboard-cont .easywpm-field-type i {
+	display:inline-block;
+
+	
+	width: 26px;
+	height: 26px;
+	line-height: 26px;
+	margin: 0 14px 0 0;	
+	text-align: center;
+	position: relative;
+	top: auto;
+}
+
+
+/*Packages Backend*/
+.easywpm-packages-backend-list .easywpm-package-list-front{ text-align:left}
+.easywpm-packages-backend-list .easywpm-package-list-front .uultra-account-type{ text-align:right; padding-right:5px;}
+.easywpm-packages-backend-list .easywpm-package-list-front .uultra-account-type p{ text-align:right !important}
+.easywpm-packages-backend-list .easywpm-package-list-front .uultra-account-type span{ font-weight:bold}
+
+.easywpm-packages-backend-list .easywpm-package-list-front label{ display: inline}
+
+.easywpm-packages-backend-list  ul{ text-align:center; }
+.easywpm-packages-backend-list  ul li{ 
+ list-style:none; position:relative; display:inline-block; width:45%; margin:10px 5px 10px 5px;
+ padding:15px 5px 5px 15px; min-height:60px; height:auto; border:solid 1px #EBEBEB
+ 
+
+
+}
+
+
+.easywpm-packages-backend-list .easywpm-package-list-front .uultra-package-opt{ height:60px; margin:5px 0 5px 0px; text-align:left;}
+.easywpm-packages-backend-list .easywpm-package-list-front  span.uultra-package-title{ font-size:18px; width:100%; float:none}
+.easywpm-packages-backend-list .easywpm-package-list-front  span.uultra-package-cost{  width:45%; position:absolute; right:5px; top:5px; text-align:right; padding-right:10px;}
+
+.easywpm-packages-front-list .uultra-package-desc{ 
+
+float:none; clear:both;height:auto;
+
+ min-height:50px; 
+ margin:5px 0 5px 0px; 
+
+ padding:10px;
+
+
+}
+
+
+
+.easywpm-packages-backend-list .uultra-package-desc p{
+	 text-align:left;
+	 font-size:14px;}
+	 
+	 
+
+
+.easywpm-ultra-info, .easywpm-ultra-success, .easywpm-ultra-warning, .easywpm-ultra-error, .isa_error {
+
+    border:none;
+
+    margin: 10px 0px 15px 5px;
+
+    padding:15px 10px 15px 50px;
+
+    background-repeat: no-repeat;
+
+    background-position: 10px center;
+
+	-moz-border-radius:.5em;
+
+-webkit-border-radius:.5em;
+
+border-radius:.5em;
+
+}
+
+
+
+.easywpm-ultra-wait {
+    color: #333;
+    background-color:none;
+	text-align:center
+   
+}
+.easywpm-ultra-info {
+    color: #777;
+    background-color: #e9f5fbf0;
+   
+}
+.easywpm-ultra-success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+   
+}
+
+.easywpm-ultra-success i{
+	font-size:18px;
+	margin:0px 5px 0px 0px
+   
+}
+
+.easywpm-ultra-info i{
+	font-size:18px;
+	margin:0px 5px 0px 0px
+   
+}
+.easywpm-ultra-warning {
+    color: #666;
+    background-color: #ffcc002b;
+   
+}
+
+.easywpm-ultra-warning i{
+	font-size:18px;
+	margin:0px 5px 0px 0px
+   
+}
+
+.easywpm-ultra-error {
+    color: #D8000C;
+    background-color: #FFBABA;
+   
+}
+
+
+
+
+/*END User backend Upgrade Packages*/
+
+
+
+/**/
+
+/* ------------------------------------------------------------------------- *
+
+ *  Responsive Style
+
+/* ------------------------------------------------------------------------- */
+
+/************************************************************************************
+
+MEDIA QUERIES
+
+*************************************************************************************/
+
+
+
+/* Large screens */
+
+@media only screen and (min-width : 1680px) {
+
+
+
+}
+
+
+
+/* Tablet Landscape */
+
+ @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+
+
+}
+
+
+
+
+
+
+
+/* for 980px or less */
+
+@media screen and (max-width: 1000px) {
+	
+
+}
+
+
+/* Smaller than 960px */
+
+/*@media only screen and (max-width: 959px) {
+
+}*/
+
+
+
+/* MAX 800px */
+
+
+
+@media only screen and (max-width: 1000px) {
+	
+	.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-top-options ul li .easywpm-user-menu-text{ display:none}
+	.bp_table_row_hide{ display:none}	
+	.easywpm-user-dahsboard-cont .easywpm-top-header .easywpm-top-options ul li i{ font-size:25px}
+	
+	#easywpm-stats-on-hold{ display:none}
+	#easywpm-stats-shared{ display:none}	
+	.easywpm-main-ticket-summary ul li { width:23%}
+	.easywpm-main-ticket-summary ul li.easywpmclientd{width:30%  }
+	
+	
+	/* tickets list*/
+	#easywpm-ticket-col-staff { display:none}
+	#easywpm-ticket-col-department { display:none}
+	
+	
+}
+
+
+
+/* for 750px or less */
+
+@media only screen and (max-width: 750px) {
+	
+
+}
+
+@media only screen and (max-width: 620px) {
+	
+	
+	.easywpm-main-ticket-summary ul li { width:22%}
+	#easywpm-ticket-col-lastupdate { display:none}
+	
+	
+
+
+}
+
+/*  GO FULL WIDTH AT LESS THAN 580 PIXELS */
+
+@media only screen and (max-width: 580px) {
+	
+
+
+}
+
+
+@media only screen and (max-width: 460px) {
+	
+	
+	.easywpm-staff-profile-name { display:none}
+	#easywpm-ticket-col-status { display:none}
+	#easywpm-ticket-col-site { display:none}
+	
+
+}
+
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+	
+
+
+
+}
+
+
+
+/* MAX 1440px */
+
+
+
+@media only screen and (max-width: 1440px){
+
+
+
+
+}
+
+
+
+
+
+/* MAX 1024px */
+
+
+
+@media only screen and (max-width: 1024px){
+
+
+
+}
+
+
+/* MAX 360px */
+
+
+
+@media only screen and (max-width: 320px){
+
+
+		
+
+}
+

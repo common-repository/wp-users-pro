@@ -1,0 +1,3636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy WP Members Core\n"
+"POT-Creation-Date: 2018-03-19 15:23-0300\n"
+"PO-Revision-Date: 2018-03-19 15:23-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+
+#: addons/pages/admin/admin.php:41
+msgid "Users Pages"
+msgstr ""
+
+#: addons/pages/admin/admin.php:66
+msgid "User Pages"
+msgstr ""
+
+#: addons/pages/admin/admin.php:119 classes/easywpm.admin.php:1612
+msgid "Rewrite Rules were Saved."
+msgstr ""
+
+#: addons/pages/admin/admin.php:128
+msgid "CUSTOM PAGES SETTINGS"
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:12
+msgid "Easy WP Members Pages"
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:14
+msgid "Here you can set your custom pages for the members."
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:24
+msgid "Registration Page"
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:26
+msgid ""
+"Make sure you have the <code>[easywpm_user_signup]</code> shortcode on this "
+"page."
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:27
+msgid "This page is where users will be able to sign up to your website."
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:34
+msgid "My Account Page"
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:36
+msgid ""
+"Make sure you have the <code>[easywpm_account]</code> shortcode on this page."
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:37
+msgid ""
+"This page is where users and staff members will be able to manage their "
+"appointments."
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:43
+msgid "Users Login Page"
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:45
+msgid ""
+"Make sure you have the <code>[easywpm_user_login]</code> shortcode on this "
+"page."
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:46
+msgid ""
+"This page is where users and staff members & clients will be able to recover "
+"to login to their accounts."
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:53
+msgid "Password Recover Page"
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:55
+msgid ""
+"Make sure you have the <code>[easywpm_user_recover_password]</code> "
+"shortcode on this page."
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:56
+msgid ""
+"This page is where users and staff members will be able to recover their "
+"passwords."
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:64
+msgid "Hide WP Admin Tool Bar?"
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:66 admin/tabs/membership-add.php:68
+#: admin/tabs/membership-add.php:162 admin/tabs/membership-add.php:174
+#: admin/tabs/membership-edit.php:83 admin/tabs/membership-edit.php:178
+#: admin/tabs/membership-edit.php:190 admin/tabs/settings.php:388
+#: admin/tabs/settings.php:401 admin/tabs/settings.php:434
+#: admin/tabs/settings.php:447 admin/tabs/settings.php:480
+#: admin/tabs/settings.php:493
+msgid "NO"
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:67 admin/tabs/membership-add.php:69
+#: admin/tabs/membership-add.php:163 admin/tabs/membership-add.php:173
+#: admin/tabs/membership-edit.php:84 admin/tabs/membership-edit.php:179
+#: admin/tabs/membership-edit.php:189 admin/tabs/settings.php:387
+#: admin/tabs/settings.php:400 admin/tabs/settings.php:433
+#: admin/tabs/settings.php:446 admin/tabs/settings.php:479
+#: admin/tabs/settings.php:492
+msgid "YES"
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:69
+#: addons/pages/admin/panels/manage.php:70
+msgid "If checked, User will not see the WP Admin Tool Bar"
+msgstr ""
+
+#: addons/pages/admin/panels/manage.php:86 admin/tabs/gateway.php:442
+#: admin/tabs/mail.php:410 admin/tabs/membership-edit.php:288
+#: admin/tabs/settings.php:135 admin/tabs/settings.php:358
+#: admin/tabs/settings.php:514 admin/tabs/settings.php:791
+#: admin/tabs/settings.php:832 admin/tabs/settings.php:919
+#: admin/tabs/settings.php:988
+msgid "Save Changes"
+msgstr ""
+
+#: admin/tabs/fields.php:19
+msgid "Custom Fields Customizer"
+msgstr ""
+
+#: admin/tabs/fields.php:22
+msgid ""
+"This section allow you to set different fields to each of your Products and "
+"Departments. For example, for the sales department you can ask for sale "
+"number and for the support department you can ask for a serial number, "
+"website etc etc."
+msgstr ""
+
+#: admin/tabs/fields.php:27
+msgid "Click here to add new field"
+msgstr ""
+
+#: admin/tabs/fields.php:37
+msgid "Forms:"
+msgstr ""
+
+#: admin/tabs/fields.php:50 admin/tabs/membership-add.php:54
+#: admin/tabs/membership-edit.php:68 admin/tabs/membership.php:33
+#: admin/tabs/orders.php:178
+msgid "Type"
+msgstr ""
+
+#: admin/tabs/fields.php:54
+msgid "Field"
+msgstr ""
+
+#: admin/tabs/fields.php:57 classes/easywpm.admin.php:991
+msgid "Separator"
+msgstr ""
+
+#: admin/tabs/fields.php:60
+msgid "You can create a separator or a field"
+msgstr ""
+
+#: admin/tabs/fields.php:65
+msgid "Editor / Input Type"
+msgstr ""
+
+#: admin/tabs/fields.php:74 classes/easywpm.admin.php:1012
+msgid ""
+"When user edit profile, this field can be an input (text, textarea, image "
+"upload, etc.)"
+msgstr ""
+
+#: admin/tabs/fields.php:79
+msgid "New Custom Meta Key"
+msgstr ""
+
+#: admin/tabs/fields.php:84 classes/easywpm.admin.php:1022
+msgid ""
+"Enter a custom meta key for this profile field if do not want to use a "
+"predefined meta field above. It is recommended to only use alphanumeric "
+"characters and underscores, for example my_custom_meta is a proper meta key."
+msgstr ""
+
+#: admin/tabs/fields.php:90
+msgid "Label"
+msgstr ""
+
+#: admin/tabs/fields.php:96 classes/easywpm.admin.php:1033
+msgid ""
+"Enter the label / name of this field as you want it to appear in front-end "
+"(Profile edit/view)"
+msgstr ""
+
+#: admin/tabs/fields.php:101 classes/easywpm.admin.php:1042
+msgid "Tooltip Text"
+msgstr ""
+
+#: admin/tabs/fields.php:107 classes/easywpm.admin.php:1047
+msgid "A tooltip text can be useful for social buttons on profile header."
+msgstr ""
+
+#: admin/tabs/fields.php:113 classes/easywpm.admin.php:1052
+msgid "Help Text"
+msgstr ""
+
+#: admin/tabs/fields.php:116 classes/easywpm.admin.php:1054
+msgid "A help text can be useful for provide information about the field."
+msgstr ""
+
+#: admin/tabs/fields.php:118 classes/easywpm.admin.php:1056
+msgid "Show this help text under the profile field."
+msgstr ""
+
+#: admin/tabs/fields.php:126 classes/easywpm.admin.php:1069
+msgid "User can edit"
+msgstr ""
+
+#: admin/tabs/fields.php:130 admin/tabs/fields.php:152
+#: admin/tabs/fields.php:167 admin/tabs/gateway.php:263
+#: admin/tabs/settings.php:307 admin/tabs/settings.php:320
+#: admin/tabs/settings.php:544 admin/tabs/settings.php:585
+#: admin/tabs/settings.php:598 admin/tabs/settings.php:620
+#: admin/tabs/settings.php:643 admin/tabs/settings.php:663
+#: admin/tabs/settings.php:686 admin/tabs/settings.php:699
+#: admin/tabs/settings.php:730 admin/tabs/settings.php:752
+#: admin/tabs/settings.php:775 classes/easywpm.admin.php:1073
+#: classes/easywpm.admin.php:1100 classes/easywpm.admin.php:1137
+msgid "Yes"
+msgstr ""
+
+#: admin/tabs/fields.php:133 admin/tabs/fields.php:149
+#: admin/tabs/fields.php:164 admin/tabs/gateway.php:262
+#: admin/tabs/settings.php:306 admin/tabs/settings.php:319
+#: admin/tabs/settings.php:543 admin/tabs/settings.php:584
+#: admin/tabs/settings.php:597 admin/tabs/settings.php:619
+#: admin/tabs/settings.php:642 admin/tabs/settings.php:662
+#: admin/tabs/settings.php:685 admin/tabs/settings.php:698
+#: admin/tabs/settings.php:729 admin/tabs/settings.php:751
+#: admin/tabs/settings.php:774 admin/tabs/settings.php:818
+#: classes/easywpm.admin.php:1076 classes/easywpm.admin.php:1097
+#: classes/easywpm.admin.php:1134
+msgid "No"
+msgstr ""
+
+#: admin/tabs/fields.php:136 classes/easywpm.admin.php:1079
+msgid "Users can edit this profile field or not."
+msgstr ""
+
+#: admin/tabs/fields.php:145
+msgid "This field is required"
+msgstr ""
+
+#: admin/tabs/fields.php:155 classes/easywpm.admin.php:1103
+msgid ""
+"Selecting yes will force user to provide a value for this field at "
+"registration and edit profile. Registration or profile edits will not be "
+"accepted if this field is left empty."
+msgstr ""
+
+#: admin/tabs/fields.php:160
+msgid "Show on Registration form"
+msgstr ""
+
+#: admin/tabs/fields.php:170
+msgid ""
+"Show this field on the registration form? If you choose no, this field will "
+"be shown on edit profile only and not on the registration form. Most users "
+"prefer fewer fields when registering, so use this option with care."
+msgstr ""
+
+#: admin/tabs/fields.php:186 classes/easywpm.admin.php:1210
+msgid "Success "
+msgstr ""
+
+#: admin/tabs/fields.php:187
+msgid "Submit New Field"
+msgstr ""
+
+#: admin/tabs/fields.php:189 classes/easywpm.admin.php:1216
+#: classes/easywpm.profile.php:335 classes/easywpm.profile.php:736
+msgid "Cancel"
+msgstr ""
+
+#: admin/tabs/fields.php:206
+msgid "Are you totally sure that you want to delete this field?"
+msgstr ""
+
+#: admin/tabs/fields.php:208
+msgid "Are you totally sure that you want to restore the default fields?"
+msgstr ""
+
+#: admin/tabs/fields.php:210 classes/easywpm.admin.php:291
+#: classes/easywpm.admin.php:295 classes/easywpm.admin.php:318
+#: classes/easywpm.admin.php:320 classes/easywpm.profile.php:64
+#: classes/easywpm.profile.php:66
+msgid "Please input a name"
+msgstr ""
+
+#: admin/tabs/fields.php:216 admin/tabs/licence.php:31
+#: admin/tabs/subscriptions-edit.php:190 admin/tabs/users-edit.php:264
+#: classes/easywpm.admin.php:317 classes/easywpm.class.php:1151
+#: classes/easywpm.class.php:1181 classes/easywpm.profile.php:56
+#: classes/easywpm.profile.php:62
+msgid "Please wait ..."
+msgstr ""
+
+#: admin/tabs/gateway.php:4
+msgid "Payment Gateways Settings"
+msgstr ""
+
+#: admin/tabs/gateway.php:12
+msgid "Stripe Settings"
+msgstr ""
+
+#: admin/tabs/gateway.php:14
+msgid ""
+"Stripe is a payment gateway for mechants. If you don't have a Stripe "
+"account, you can <a href='https://stripe.com/'> sign up for one account "
+"here</a> "
+msgstr ""
+
+#: admin/tabs/gateway.php:16
+msgid ""
+"Here you can configure Stripe if you wish to accept credit card payments "
+"directly in your website. Find your Stripe API keys here <a href=\"https://"
+"dashboard.stripe.com/account/apikeys\">https://dashboard.stripe.com/account/"
+"apikeys</a>"
+msgstr ""
+
+#: admin/tabs/gateway.php:25
+msgid "Activate Stripe"
+msgstr ""
+
+#: admin/tabs/gateway.php:27 admin/tabs/gateway.php:28
+msgid "If checked, Stripe will be activated as payment method"
+msgstr ""
+
+#: admin/tabs/gateway.php:35
+msgid "Test Secret Key"
+msgstr ""
+
+#: admin/tabs/gateway.php:36 admin/tabs/gateway.php:37
+#: admin/tabs/gateway.php:44 admin/tabs/gateway.php:45
+#: admin/tabs/gateway.php:52 admin/tabs/gateway.php:53
+#: admin/tabs/gateway.php:60 admin/tabs/gateway.php:61
+msgid "You can get this on stripe.com"
+msgstr ""
+
+#: admin/tabs/gateway.php:43
+msgid "Test Publishable Key"
+msgstr ""
+
+#: admin/tabs/gateway.php:51
+msgid "Live Secret Key"
+msgstr ""
+
+#: admin/tabs/gateway.php:59
+msgid "Live Publishable Key"
+msgstr ""
+
+#: admin/tabs/gateway.php:68
+msgid "Signing secret"
+msgstr ""
+
+#: admin/tabs/gateway.php:69 admin/tabs/gateway.php:70
+msgid "You can get this on Stripe - WebHooks link"
+msgstr ""
+
+#: admin/tabs/gateway.php:77 admin/tabs/gateway.php:180
+#: admin/tabs/gateway.php:289
+msgid "Currency"
+msgstr ""
+
+#: admin/tabs/gateway.php:78 admin/tabs/gateway.php:79
+#: admin/tabs/gateway.php:181 admin/tabs/gateway.php:182
+#: admin/tabs/gateway.php:290 admin/tabs/gateway.php:291
+msgid "Please enter the currency, example USD."
+msgstr ""
+
+#: admin/tabs/gateway.php:85 admin/tabs/gateway.php:188
+#: admin/tabs/gateway.php:392
+msgid "Custom Message"
+msgstr ""
+
+#: admin/tabs/gateway.php:86 admin/tabs/gateway.php:87
+#: admin/tabs/gateway.php:189 admin/tabs/gateway.php:190
+#: admin/tabs/gateway.php:393 admin/tabs/gateway.php:394
+msgid ""
+"Input here a custom message that will be displayed to the client once the "
+"booking has been confirmed at the front page."
+msgstr ""
+
+#: admin/tabs/gateway.php:93 admin/tabs/gateway.php:196
+#: admin/tabs/gateway.php:298 admin/tabs/gateway.php:402
+msgid "Custom Success Page Redirect "
+msgstr ""
+
+#: admin/tabs/gateway.php:95 admin/tabs/gateway.php:96
+#: admin/tabs/gateway.php:198 admin/tabs/gateway.php:199
+#: admin/tabs/gateway.php:300 admin/tabs/gateway.php:301
+msgid ""
+"If checked, the users will be taken to this page once the payment has been "
+"confirmed"
+msgstr ""
+
+#: admin/tabs/gateway.php:103 admin/tabs/gateway.php:206
+#: admin/tabs/gateway.php:308 admin/tabs/gateway.php:412
+msgid "Success Page"
+msgstr ""
+
+#: admin/tabs/gateway.php:105 admin/tabs/gateway.php:106
+#: admin/tabs/gateway.php:310 admin/tabs/gateway.php:311
+msgid ""
+"Select the sucess page. The user will be taken to this page if the payment "
+"was approved by stripe."
+msgstr ""
+
+#: admin/tabs/gateway.php:113 admin/tabs/gateway.php:216
+#: admin/tabs/gateway.php:338
+msgid "Mode"
+msgstr ""
+
+#: admin/tabs/gateway.php:115 admin/tabs/gateway.php:218
+#: admin/tabs/gateway.php:340
+msgid "Production Mode"
+msgstr ""
+
+#: admin/tabs/gateway.php:116 admin/tabs/gateway.php:219
+#: admin/tabs/gateway.php:341
+msgid "Test Mode (Sandbox)"
+msgstr ""
+
+#: admin/tabs/gateway.php:119 admin/tabs/gateway.php:120
+#: admin/tabs/gateway.php:222 admin/tabs/gateway.php:223
+#: admin/tabs/gateway.php:344 admin/tabs/gateway.php:345
+#: admin/tabs/settings.php:189 admin/tabs/settings.php:935
+msgid "."
+msgstr ""
+
+#: admin/tabs/gateway.php:139
+msgid "Authorize.NET AIM Settings"
+msgstr ""
+
+#: admin/tabs/gateway.php:141 admin/tabs/gateway.php:143
+msgid " "
+msgstr ""
+
+#: admin/tabs/gateway.php:152
+msgid "Activate Authorize"
+msgstr ""
+
+#: admin/tabs/gateway.php:154 admin/tabs/gateway.php:155
+msgid "If checked, Authorize will be activated as payment method"
+msgstr ""
+
+#: admin/tabs/gateway.php:163
+msgid "API Login ID"
+msgstr ""
+
+#: admin/tabs/gateway.php:164 admin/tabs/gateway.php:165
+#: admin/tabs/gateway.php:172 admin/tabs/gateway.php:173
+msgid "You can get this on authorize.net"
+msgstr ""
+
+#: admin/tabs/gateway.php:171
+msgid "API Transaction Key"
+msgstr ""
+
+#: admin/tabs/gateway.php:208
+msgid ""
+"Select the sucess page. The user will be taken to this page if the payment "
+"was approved by Authorize.net "
+msgstr ""
+
+#: admin/tabs/gateway.php:209
+msgid ""
+"Select the sucess page. The user will be taken to this page if the payment "
+"was approved by Authorize.net"
+msgstr ""
+
+#: admin/tabs/gateway.php:239
+msgid "PayPal"
+msgstr ""
+
+#: admin/tabs/gateway.php:241
+msgid "Here you can configure PayPal if you wish to accept paid registrations"
+msgstr ""
+
+#: admin/tabs/gateway.php:242
+msgid ""
+"Please note: You have to set a right currency <a href='https://developer."
+"paypal.com/docs/classic/api/currency_codes/' target='_blank'> check "
+"supported currencies here </a> "
+msgstr ""
+
+#: admin/tabs/gateway.php:251
+msgid "Activate PayPal"
+msgstr ""
+
+#: admin/tabs/gateway.php:253 admin/tabs/gateway.php:254
+msgid "If checked, PayPal will be activated as payment method"
+msgstr ""
+
+#: admin/tabs/gateway.php:260
+msgid "The Paypal IPN response will be sent to the admin"
+msgstr ""
+
+#: admin/tabs/gateway.php:266 admin/tabs/gateway.php:267
+msgid ""
+"If 'yes' the admin will receive the whole Paypal IPN response. This helps to "
+"troubleshoot issues."
+msgstr ""
+
+#: admin/tabs/gateway.php:273
+msgid "PayPal Email Address"
+msgstr ""
+
+#: admin/tabs/gateway.php:274 admin/tabs/gateway.php:275
+msgid "Enter email address associated to your PayPal account."
+msgstr ""
+
+#: admin/tabs/gateway.php:281
+msgid "Paypal Sandbox Email Address"
+msgstr ""
+
+#: admin/tabs/gateway.php:282 admin/tabs/gateway.php:283
+msgid "This is not used for production, you can use this email for testing."
+msgstr ""
+
+#: admin/tabs/gateway.php:318
+msgid "Custom Cancellation Page Redirect "
+msgstr ""
+
+#: admin/tabs/gateway.php:320 admin/tabs/gateway.php:321
+msgid ""
+"If checked, the users will be taken to this page if the payment is cancelled "
+"at PayPal website"
+msgstr ""
+
+#: admin/tabs/gateway.php:328
+msgid "Cancellation Page"
+msgstr ""
+
+#: admin/tabs/gateway.php:330 admin/tabs/gateway.php:331
+msgid ""
+"Select the cancellation page. The user will be taken to this page if the "
+"payment is cancelled at PayPal Website"
+msgstr ""
+
+#: admin/tabs/gateway.php:362
+msgid "Bank Deposit/Cash Other"
+msgstr ""
+
+#: admin/tabs/gateway.php:364
+msgid ""
+"Here you can configure the information that will be sent to the client. This "
+"could be your bank account details."
+msgstr ""
+
+#: admin/tabs/gateway.php:373
+msgid "Activate Bank Deposit"
+msgstr ""
+
+#: admin/tabs/gateway.php:375 admin/tabs/gateway.php:376
+msgid "If checked, Bank Payment Deposit will be activated as payment method"
+msgstr ""
+
+#: admin/tabs/gateway.php:383
+msgid "Custom Label"
+msgstr ""
+
+#: admin/tabs/gateway.php:384 admin/tabs/gateway.php:385
+msgid "Example: Bank Deposit , Cash, Wire etc."
+msgstr ""
+
+#: admin/tabs/gateway.php:404 admin/tabs/gateway.php:405
+msgid "If checked, the users will be taken to this page "
+msgstr ""
+
+#: admin/tabs/gateway.php:414 admin/tabs/gateway.php:415
+msgid ""
+"Select the sucess page. The user will be taken to this page on purchase "
+"confirmation"
+msgstr ""
+
+#: admin/tabs/gateway.php:426
+msgid "Default Status for Local Payments"
+msgstr ""
+
+#: admin/tabs/gateway.php:428
+msgid ""
+"Set the default status a subscription will have when using local payment "
+"method. "
+msgstr ""
+
+#: admin/tabs/gateway.php:429
+msgid ""
+"et the default status a subscription will have when using local payment "
+"method."
+msgstr ""
+
+#: admin/tabs/help.php:9
+msgid " Quick Documentation"
+msgstr ""
+
+#: admin/tabs/help.php:11
+msgid ""
+"Here there are some useful shortocodes and tutorials that will help you to "
+"start with your Plugin."
+msgstr ""
+
+#: admin/tabs/help.php:19
+msgid "Getting Started"
+msgstr ""
+
+#: admin/tabs/help.php:23 admin/tabs/welcome.php:26
+msgid "Getting Started Guide"
+msgstr ""
+
+#: admin/tabs/help.php:24 admin/tabs/welcome.php:49
+msgid "Setup PayPal Standard"
+msgstr ""
+
+#: admin/tabs/help.php:34 admin/tabs/main.php:101 admin/tabs/membership.php:21
+msgid "Subscription Plans"
+msgstr ""
+
+#: admin/tabs/help.php:38
+msgid "How To Create Subscription Plans in Stripe?"
+msgstr ""
+
+#: admin/tabs/help.php:39
+msgid "How To Create A Subscription Plan?"
+msgstr ""
+
+#: admin/tabs/help.php:51
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/tabs/help.php:55 admin/tabs/settings.php:104
+msgid "Login Form"
+msgstr ""
+
+#: admin/tabs/help.php:56 classes/easywpm.admin.php:528
+msgid "Password Reset"
+msgstr ""
+
+#: admin/tabs/help.php:57
+msgid "Members Registration Page"
+msgstr ""
+
+#: admin/tabs/help.php:58
+msgid "Members Account"
+msgstr ""
+
+#: admin/tabs/help.php:68
+msgid "Protection"
+msgstr ""
+
+#: admin/tabs/help.php:72
+msgid "Protect Content by User Roles"
+msgstr ""
+
+#: admin/tabs/help.php:73
+msgid "Protect Content by Subscription Plan"
+msgstr ""
+
+#: admin/tabs/help.php:74
+msgid "Protect Content by Logged-in status"
+msgstr ""
+
+#: admin/tabs/help.php:75
+msgid "Protect Partial Content"
+msgstr ""
+
+#: admin/tabs/help.php:83
+msgid "Troubleshooting"
+msgstr ""
+
+#: admin/tabs/help.php:87
+msgid "Themes & Plugin Conflicts"
+msgstr ""
+
+#: admin/tabs/help.php:88
+msgid "Emails Are Not Being Sent"
+msgstr ""
+
+#: admin/tabs/help.php:89
+msgid "The Content Is Not Being Protected"
+msgstr ""
+
+#: admin/tabs/licence.php:18
+msgid "Congratulations!"
+msgstr ""
+
+#: admin/tabs/licence.php:19
+msgid ""
+"Your copy has been validated. You should be able to update the plugin "
+"through your WP Update sections. Also, you should start receiving an notice "
+"every time the plugin is updated."
+msgstr ""
+
+#: admin/tabs/licence.php:23
+msgid "Validate your copy"
+msgstr ""
+
+#: admin/tabs/licence.php:24
+msgid ""
+"Please fill out the form below with the serial number generated when you "
+"registered your domain through your account at easywpmembers.com"
+msgstr ""
+
+#: admin/tabs/licence.php:26
+msgid "INPUT YOUR SERIAL KEY"
+msgstr ""
+
+#: admin/tabs/licence.php:31
+msgid "CLICK HERE TO VALIDATE YOUR COPY"
+msgstr ""
+
+#: admin/tabs/mail.php:6
+msgid "Advanced Email Options"
+msgstr ""
+
+#: admin/tabs/mail.php:13
+msgid ""
+"Here you can control how WP Ticket Ultra will send the notification to your "
+"users."
+msgstr ""
+
+#: admin/tabs/mail.php:24
+msgid "Send From Name"
+msgstr ""
+
+#: admin/tabs/mail.php:25 admin/tabs/mail.php:26
+msgid "Enter the your name or company name here."
+msgstr ""
+
+#: admin/tabs/mail.php:32
+msgid "Send From Email"
+msgstr ""
+
+#: admin/tabs/mail.php:33 admin/tabs/mail.php:34
+msgid "Enter the email address to be used when sending emails."
+msgstr ""
+
+#: admin/tabs/mail.php:40
+msgid "Mailer:"
+msgstr ""
+
+#: admin/tabs/mail.php:42
+msgid "Use the PHP mail() function to send emails"
+msgstr ""
+
+#: admin/tabs/mail.php:43
+msgid "Send all emails via SMTP"
+msgstr ""
+
+#: admin/tabs/mail.php:44
+msgid "Send all emails via Mandrill"
+msgstr ""
+
+#: admin/tabs/mail.php:45
+msgid "Send all emails via Third-party plugin"
+msgstr ""
+
+#: admin/tabs/mail.php:49 admin/tabs/mail.php:50
+msgid "Specify which mailer method the pluigin should use when sending emails."
+msgstr ""
+
+#: admin/tabs/mail.php:56
+msgid "Return Path"
+msgstr ""
+
+#: admin/tabs/mail.php:58 admin/tabs/mail.php:59
+msgid "Set the return-path to match the From Email"
+msgstr ""
+
+#: admin/tabs/mail.php:71
+msgid "SMTP Settings"
+msgstr ""
+
+#: admin/tabs/mail.php:72
+msgid ""
+"This options should be set only if you have chosen to send email via SMTP"
+msgstr ""
+
+#: admin/tabs/mail.php:79
+msgid "SMTP Host:"
+msgstr ""
+
+#: admin/tabs/mail.php:80 admin/tabs/mail.php:81
+msgid "Specify host name or ip address."
+msgstr ""
+
+#: admin/tabs/mail.php:87
+msgid "SMTP Port:"
+msgstr ""
+
+#: admin/tabs/mail.php:88 admin/tabs/mail.php:89
+msgid "Specify Port."
+msgstr ""
+
+#: admin/tabs/mail.php:96
+msgid "Encryption:"
+msgstr ""
+
+#: admin/tabs/mail.php:98
+msgid "No encryption"
+msgstr ""
+
+#: admin/tabs/mail.php:99
+msgid "Use SSL encryption"
+msgstr ""
+
+#: admin/tabs/mail.php:100
+msgid "Use TLS encryption"
+msgstr ""
+
+#: admin/tabs/mail.php:104 admin/tabs/mail.php:105
+msgid "Specify the encryption method."
+msgstr ""
+
+#: admin/tabs/mail.php:111
+msgid "Authentication:"
+msgstr ""
+
+#: admin/tabs/mail.php:113
+msgid "No. Do not use SMTP authentication"
+msgstr ""
+
+#: admin/tabs/mail.php:114
+msgid "Yes. Use SMTP Authentication"
+msgstr ""
+
+#: admin/tabs/mail.php:118 admin/tabs/mail.php:119
+msgid "Specify the authentication method."
+msgstr ""
+
+#: admin/tabs/mail.php:125
+msgid "Username:"
+msgstr ""
+
+#: admin/tabs/mail.php:126 admin/tabs/mail.php:127
+msgid "Specify Username."
+msgstr ""
+
+#: admin/tabs/mail.php:133
+msgid "Password:"
+msgstr ""
+
+#: admin/tabs/mail.php:134 admin/tabs/mail.php:135
+msgid "Input Password."
+msgstr ""
+
+#: admin/tabs/mail.php:150
+msgid "User Registration Email"
+msgstr ""
+
+#: admin/tabs/mail.php:150 admin/tabs/mail.php:193 admin/tabs/mail.php:234
+#: admin/tabs/mail.php:276 admin/tabs/mail.php:318 admin/tabs/mail.php:359
+#: admin/tabs/main.php:49 admin/tabs/main.php:132 admin/tabs/main.php:202
+#: admin/tabs/main.php:275 admin/tabs/orders.php:75
+#: admin/tabs/subscriptions.php:81 admin/tabs/users.php:81
+#: templates/basic/template-parts/main.php:19
+#: templates/basic/template-parts/subscriptions.php:21
+#: templates/basic/template-parts/subscriptions.php:94
+msgid "Close"
+msgstr ""
+
+#: admin/tabs/mail.php:152
+msgid "This message will be sent to the user and it includes the password."
+msgstr ""
+
+#: admin/tabs/mail.php:163 admin/tabs/mail.php:206 admin/tabs/mail.php:247
+#: admin/tabs/mail.php:289 admin/tabs/mail.php:331 admin/tabs/mail.php:372
+msgid "Subject:"
+msgstr ""
+
+#: admin/tabs/mail.php:164 admin/tabs/mail.php:165 admin/tabs/mail.php:207
+#: admin/tabs/mail.php:208 admin/tabs/mail.php:248 admin/tabs/mail.php:249
+#: admin/tabs/mail.php:290 admin/tabs/mail.php:291 admin/tabs/mail.php:332
+#: admin/tabs/mail.php:333 admin/tabs/mail.php:373 admin/tabs/mail.php:374
+msgid "Set Email Subject."
+msgstr ""
+
+#: admin/tabs/mail.php:171 admin/tabs/mail.php:214 admin/tabs/mail.php:255
+#: admin/tabs/mail.php:297 admin/tabs/mail.php:339 admin/tabs/mail.php:380
+msgid "Message"
+msgstr ""
+
+#: admin/tabs/mail.php:172 admin/tabs/mail.php:173 admin/tabs/mail.php:215
+#: admin/tabs/mail.php:216 admin/tabs/mail.php:256 admin/tabs/mail.php:257
+#: admin/tabs/mail.php:298 admin/tabs/mail.php:299 admin/tabs/mail.php:340
+#: admin/tabs/mail.php:341 admin/tabs/mail.php:381 admin/tabs/mail.php:382
+msgid "Set Email Message here."
+msgstr ""
+
+#: admin/tabs/mail.php:181 admin/tabs/mail.php:224 admin/tabs/mail.php:265
+#: admin/tabs/mail.php:307 admin/tabs/mail.php:349 admin/tabs/mail.php:390
+msgid "RESTORE DEFAULT TEMPLATE"
+msgstr ""
+
+#: admin/tabs/mail.php:193
+msgid "Members Password Reset"
+msgstr ""
+
+#: admin/tabs/mail.php:195
+msgid ""
+"This message is sent when the password is changed by the members on the "
+"front-end"
+msgstr ""
+
+#: admin/tabs/mail.php:234
+msgid "Subscription - User Email New Subscription Purchase"
+msgstr ""
+
+#: admin/tabs/mail.php:236
+msgid ""
+"This message will be sent to the user when purchasing a new package within "
+"his/her account."
+msgstr ""
+
+#: admin/tabs/mail.php:276
+msgid "Subscription - Admin Email New Subscription Purchase"
+msgstr ""
+
+#: admin/tabs/mail.php:278
+msgid ""
+"This message will be sent to the admin when a client buys a new package "
+"within his/her account."
+msgstr ""
+
+#: admin/tabs/mail.php:318
+msgid "Subscription - Admin Email Subscription Renewal"
+msgstr ""
+
+#: admin/tabs/mail.php:320
+msgid "This message will be sent to the admin when a subscription is renewed."
+msgstr ""
+
+#: admin/tabs/mail.php:359
+msgid "Subscription - Client Email Subscription Renewal"
+msgstr ""
+
+#: admin/tabs/mail.php:361
+msgid "This message will be sent to the client when a subscription is renewd."
+msgstr ""
+
+#: admin/tabs/main.php:49 admin/tabs/subscriptions.php:81
+msgid "Sales Summary"
+msgstr ""
+
+#: admin/tabs/main.php:68 classes/easywpm.admin.php:332
+#: classes/easywpm.class.php:1158 classes/easywpm.class.php:1193
+#: classes/easywpm.class.php:1255 classes/easywpm.profile.php:82
+msgid "Today"
+msgstr ""
+
+#: admin/tabs/main.php:74
+msgid "This Week"
+msgstr ""
+
+#: admin/tabs/main.php:89 classes/easywpm.admin.php:58
+msgid "Members"
+msgstr ""
+
+#: admin/tabs/main.php:94 templates/basic/template-parts/main.php:19
+msgid "Active Subscriptions"
+msgstr ""
+
+#: admin/tabs/main.php:100
+msgid "Open"
+msgstr ""
+
+#: admin/tabs/main.php:109 classes/easywpm.class.php:163
+#: classes/easywpm.membership.php:1091
+msgid "Pending"
+msgstr ""
+
+#: admin/tabs/main.php:110
+msgid "Expired Subscriptions"
+msgstr ""
+
+#: admin/tabs/main.php:132
+msgid "Latest Subscriptions"
+msgstr ""
+
+#: admin/tabs/main.php:140 admin/tabs/main.php:210 admin/tabs/orders.php:171
+#: admin/tabs/subscriptions-edit.php:122 admin/tabs/subscriptions.php:173
+#: admin/tabs/users-edit.php:114 admin/tabs/users-edit.php:194
+#: admin/tabs/users.php:173 classes/easywpm.user.php:53
+#: templates/basic/template-parts/main.php:29
+#: templates/basic/template-parts/subscription_detail.php:139
+#: templates/basic/template-parts/subscriptions.php:31
+msgid "#"
+msgstr ""
+
+#: admin/tabs/main.php:141 admin/tabs/subscriptions.php:175
+#: admin/tabs/users-edit.php:115 templates/basic/template-parts/main.php:30
+#: templates/basic/template-parts/subscriptions.php:32
+msgid "Started"
+msgstr ""
+
+#: admin/tabs/main.php:142 admin/tabs/orders.php:173
+#: admin/tabs/subscriptions.php:176
+msgid "Member"
+msgstr ""
+
+#: admin/tabs/main.php:143 admin/tabs/membership-add.php:32
+#: admin/tabs/membership-edit.php:46 admin/tabs/membership.php:31
+#: admin/tabs/subscriptions.php:177 admin/tabs/users-edit.php:116
+#: admin/tabs/users.php:175 templates/basic/template-parts/main.php:31
+#: templates/basic/template-parts/subscriptions.php:33
+msgid "Name"
+msgstr ""
+
+#: admin/tabs/main.php:144 admin/tabs/subscriptions.php:178
+#: admin/tabs/users-edit.php:117 templates/basic/template-parts/main.php:32
+#: templates/basic/template-parts/subscriptions.php:34
+msgid "Valid From"
+msgstr ""
+
+#: admin/tabs/main.php:145 admin/tabs/subscriptions.php:179
+#: admin/tabs/users-edit.php:118 templates/basic/template-parts/main.php:33
+#: templates/basic/template-parts/subscriptions.php:35
+msgid "Valid To"
+msgstr ""
+
+#: admin/tabs/main.php:146 admin/tabs/membership-add.php:187
+#: admin/tabs/membership-edit.php:204 admin/tabs/membership.php:40
+#: admin/tabs/subscriptions.php:181 admin/tabs/users-edit.php:119
+#: classes/easywpm.order.php:1066 classes/easywpm.user.php:69
+#: templates/basic/template-parts/main.php:34
+#: templates/basic/template-parts/subscriptions.php:36
+msgid "Status"
+msgstr ""
+
+#: admin/tabs/main.php:147 admin/tabs/membership.php:41
+#: admin/tabs/subscriptions.php:182 admin/tabs/users-edit.php:120
+#: admin/tabs/users.php:180 classes/easywpm.user.php:70
+#: templates/basic/template-parts/main.php:35
+#: templates/basic/template-parts/subscriptions.php:37
+msgid "Actions"
+msgstr ""
+
+#: admin/tabs/main.php:165 admin/tabs/subscriptions-edit.php:41
+#: admin/tabs/subscriptions.php:200 admin/tabs/users-edit.php:138
+#: classes/easywpm.membership.php:111
+#: templates/basic/template-parts/main.php:53
+#: templates/basic/template-parts/subscription_detail.php:47
+#: templates/basic/template-parts/subscriptions.php:55
+msgid "Lifetime"
+msgstr ""
+
+#: admin/tabs/main.php:181 admin/tabs/membership.php:87
+#: admin/tabs/orders.php:228 admin/tabs/subscriptions.php:219
+#: admin/tabs/users-edit.php:153 admin/tabs/users.php:201
+#: admin/tabs/users.php:209 classes/easywpm.admin.php:1341
+#: classes/easywpm.user.php:102 templates/basic/template-parts/main.php:68
+#: templates/basic/template-parts/subscriptions.php:70
+msgid "Edit"
+msgstr ""
+
+#: admin/tabs/main.php:194 admin/tabs/subscriptions.php:232
+#: admin/tabs/users.php:222
+msgid "There are no recent subscriptions subscriptions"
+msgstr ""
+
+#: admin/tabs/main.php:202
+msgid "Latest Payments"
+msgstr ""
+
+#: admin/tabs/main.php:211 admin/tabs/orders.php:172
+#: admin/tabs/subscriptions-edit.php:123 admin/tabs/users-edit.php:195
+#: classes/easywpm.order.php:1064 classes/easywpm.user.php:54
+#: templates/basic/template-parts/subscription_detail.php:140
+msgid "Date"
+msgstr ""
+
+#: admin/tabs/main.php:212
+msgid "Method"
+msgstr ""
+
+#: admin/tabs/main.php:213 admin/tabs/orders.php:176
+#: admin/tabs/subscriptions-edit.php:125 admin/tabs/users-edit.php:199
+#: templates/basic/template-parts/subscription_detail.php:142
+msgid "Transaction ID"
+msgstr ""
+
+#: admin/tabs/main.php:214
+msgid "Subscription"
+msgstr ""
+
+#: admin/tabs/main.php:215 admin/tabs/orders.php:179
+#: admin/tabs/subscriptions-edit.php:126 admin/tabs/users-edit.php:200
+#: templates/basic/template-parts/subscription_detail.php:143
+msgid "Amount"
+msgstr ""
+
+#: admin/tabs/main.php:263 admin/tabs/orders.php:240
+msgid "There are no recent payments"
+msgstr ""
+
+#: admin/tabs/main.php:275
+msgid "Gross Incomes Summary"
+msgstr ""
+
+#: admin/tabs/main.php:285
+msgid "Today Incomes"
+msgstr ""
+
+#: admin/tabs/main.php:291
+msgid "This Week Incomes"
+msgstr ""
+
+#: admin/tabs/main.php:297
+msgid "This Month Incomes"
+msgstr ""
+
+#: admin/tabs/main.php:344 admin/tabs/main.php:361 admin/tabs/main.php:379
+msgid "Day"
+msgstr ""
+
+#: admin/tabs/main.php:344 admin/tabs/main.php:361 admin/tabs/main.php:379
+msgid "Sales"
+msgstr ""
+
+#: admin/tabs/main.php:350
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: admin/tabs/main.php:366
+msgid "Current Month Gross Sales"
+msgstr ""
+
+#: admin/tabs/main.php:367
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: admin/tabs/main.php:385
+msgid "Current Month Daily Gross Sales"
+msgstr ""
+
+#: admin/tabs/main.php:387
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/tabs/membership-add.php:20
+msgid "Add Subscription"
+msgstr ""
+
+#: admin/tabs/membership-add.php:37 admin/tabs/membership-edit.php:51
+msgid "Description"
+msgstr ""
+
+#: admin/tabs/membership-add.php:46 admin/tabs/membership-edit.php:60
+msgid "Billing Details"
+msgstr ""
+
+#: admin/tabs/membership-add.php:56 admin/tabs/membership-edit.php:70
+msgid "One-Time"
+msgstr ""
+
+#: admin/tabs/membership-add.php:58 admin/tabs/membership-edit.php:73
+msgid "Recurring"
+msgstr ""
+
+#: admin/tabs/membership-add.php:66 admin/tabs/membership-edit.php:81
+msgid "Lifetime Membership?"
+msgstr ""
+
+#: admin/tabs/membership-add.php:77 admin/tabs/membership-edit.php:92
+#: admin/tabs/membership.php:35
+msgid "Initial Payment"
+msgstr ""
+
+#: admin/tabs/membership-add.php:78 admin/tabs/membership-edit.php:93
+msgid ""
+"Use this for one-time payments or setup payment for recurring subscriptions. "
+"Input 0 for free subscriptions"
+msgstr ""
+
+#: admin/tabs/membership-add.php:85 admin/tabs/membership-edit.php:100
+msgid "Recurring Payment"
+msgstr ""
+
+#: admin/tabs/membership-add.php:90 admin/tabs/membership-edit.php:105
+msgid "Every"
+msgstr ""
+
+#: admin/tabs/membership-add.php:110 admin/tabs/membership-edit.php:126
+msgid "Month(s)"
+msgstr ""
+
+#: admin/tabs/membership-add.php:111 admin/tabs/membership-edit.php:127
+msgid "Week(s)"
+msgstr ""
+
+#: admin/tabs/membership-add.php:112 admin/tabs/membership-edit.php:128
+msgid "Day(s)"
+msgstr ""
+
+#: admin/tabs/membership-add.php:113 admin/tabs/membership-edit.php:129
+msgid "Year(s)"
+msgstr ""
+
+#: admin/tabs/membership-add.php:120 admin/tabs/membership-edit.php:136
+msgid "Billing Cycle Limit"
+msgstr ""
+
+#: admin/tabs/membership-add.php:121 admin/tabs/membership-edit.php:137
+msgid ""
+"This is the total number of recurring billing cicles for this subscription. "
+"Set to zero if membership cycle is indefinite"
+msgstr ""
+
+#: admin/tabs/membership-add.php:135 admin/tabs/membership-edit.php:151
+msgid "Stripe Settings "
+msgstr ""
+
+#: admin/tabs/membership-add.php:142 admin/tabs/membership-edit.php:158
+msgid "Choose Your Plan"
+msgstr ""
+
+#: admin/tabs/membership-add.php:153 admin/tabs/membership-edit.php:169
+msgid "Other Settings "
+msgstr ""
+
+#: admin/tabs/membership-add.php:160 admin/tabs/membership-edit.php:176
+msgid "Requires Admin Approvation?"
+msgstr ""
+
+#: admin/tabs/membership-add.php:166 admin/tabs/membership-edit.php:182
+msgid "If YES, The admin will have to approve this account."
+msgstr ""
+
+#: admin/tabs/membership-add.php:171 admin/tabs/membership-edit.php:187
+msgid "Public Visible?"
+msgstr ""
+
+#: admin/tabs/membership-add.php:178 admin/tabs/membership-edit.php:194
+msgid "If NO, This subscription won't be visible on the public side."
+msgstr ""
+
+#: admin/tabs/membership-add.php:182 admin/tabs/membership-edit.php:198
+msgid "Display Order"
+msgstr ""
+
+#: admin/tabs/membership-add.php:183 admin/tabs/membership-edit.php:199
+msgid "Input the display ordering for this subscription. Example: 1,2,3"
+msgstr ""
+
+#: admin/tabs/membership-add.php:189 admin/tabs/membership-edit.php:206
+#: admin/tabs/membership.php:66 classes/easywpm.class.php:168
+#: classes/easywpm.membership.php:1095
+msgid "Active"
+msgstr ""
+
+#: admin/tabs/membership-add.php:190 admin/tabs/membership-edit.php:207
+#: admin/tabs/membership.php:68
+msgid "Deactivated"
+msgstr ""
+
+#: admin/tabs/membership-add.php:194 admin/tabs/membership-edit.php:211
+msgid "If Deactivated, This subscription won't be available on the website."
+msgstr ""
+
+#: admin/tabs/membership-add.php:200 admin/tabs/membership-edit.php:216
+msgid "Assign Role"
+msgstr ""
+
+#: admin/tabs/membership-add.php:209 admin/tabs/membership-edit.php:225
+msgid "Do not assign role"
+msgstr ""
+
+#: admin/tabs/membership-add.php:231 admin/tabs/membership-edit.php:247
+msgid "This role will be assigned automatically when the user signs up."
+msgstr ""
+
+#: admin/tabs/membership-add.php:241 admin/tabs/membership-edit.php:259
+msgid "Content Accessibility "
+msgstr ""
+
+#: admin/tabs/membership-add.php:249 admin/tabs/membership-edit.php:267
+msgid "Categories"
+msgstr ""
+
+#: admin/tabs/membership-add.php:256 admin/tabs/membership-edit.php:274
+msgid "Roles"
+msgstr ""
+
+#: admin/tabs/membership-add.php:270 classes/easywpm.profile.php:2850
+#: classes/easywpm.profile.php:3065 classes/easywpm.profile.php:3221
+#: templates/basic/template-parts/subscriptions.php:122
+msgid "Submit"
+msgstr ""
+
+#: admin/tabs/membership-edit.php:16 admin/tabs/subscriptions-edit.php:23
+#: templates/basic/template-parts/subscription_detail.php:29
+msgid "Oops! Invalid Subscription."
+msgstr ""
+
+#: admin/tabs/membership-edit.php:37
+msgid "Edit Subscription"
+msgstr ""
+
+#: admin/tabs/membership.php:16
+msgid "Create New"
+msgstr ""
+
+#: admin/tabs/membership.php:29
+msgid "ID"
+msgstr ""
+
+#: admin/tabs/membership.php:30
+msgid "Order"
+msgstr ""
+
+#: admin/tabs/membership.php:36
+msgid "Agreement"
+msgstr ""
+
+#: admin/tabs/membership.php:90 classes/easywpm.admin.php:1341
+msgid "Delete"
+msgstr ""
+
+#: admin/tabs/membership.php:104
+msgid "There are no subscription packages at the moment."
+msgstr ""
+
+#: admin/tabs/orders.php:73
+msgid "ORDERS"
+msgstr ""
+
+#: admin/tabs/orders.php:87 admin/tabs/subscriptions.php:93
+#: admin/tabs/users.php:93
+msgid "input some text here"
+msgstr ""
+
+#: admin/tabs/orders.php:91 admin/tabs/subscriptions.php:97
+#: admin/tabs/users.php:97
+msgid "All Months"
+msgstr ""
+
+#: admin/tabs/orders.php:105 admin/tabs/subscriptions.php:111
+#: admin/tabs/users.php:111
+msgid "All Days"
+msgstr ""
+
+#: admin/tabs/orders.php:119 admin/tabs/subscriptions.php:125
+#: admin/tabs/users.php:125
+msgid "All Years"
+msgstr ""
+
+#: admin/tabs/orders.php:135 admin/tabs/orders.php:136
+#: admin/tabs/orders.php:137 admin/tabs/orders.php:138
+#: admin/tabs/orders.php:139 admin/tabs/orders.php:140
+#: admin/tabs/orders.php:141 admin/tabs/orders.php:142
+#: admin/tabs/subscriptions.php:141 admin/tabs/subscriptions.php:142
+#: admin/tabs/subscriptions.php:143 admin/tabs/subscriptions.php:144
+#: admin/tabs/subscriptions.php:145 admin/tabs/users.php:141
+#: admin/tabs/users.php:142 admin/tabs/users.php:143 admin/tabs/users.php:144
+#: admin/tabs/users.php:145
+msgid "Per Page"
+msgstr ""
+
+#: admin/tabs/orders.php:146 admin/tabs/subscriptions.php:149
+#: admin/tabs/users.php:149
+msgid "Filter"
+msgstr ""
+
+#: admin/tabs/orders.php:174
+msgid "Membership"
+msgstr ""
+
+#: admin/tabs/orders.php:175 admin/tabs/subscriptions-edit.php:124
+#: admin/tabs/users-edit.php:197
+#: templates/basic/template-parts/subscription_detail.php:141
+msgid "Payment Method"
+msgstr ""
+
+#: admin/tabs/orders.php:177
+msgid "Subs. ID"
+msgstr ""
+
+#: admin/tabs/orders.php:209
+msgid "Initial"
+msgstr ""
+
+#: admin/tabs/orders.php:213
+msgid "Renewal"
+msgstr ""
+
+#: admin/tabs/pro.php:17
+msgid "Thank you very much for checking this page."
+msgstr ""
+
+#: admin/tabs/pro.php:22
+msgid "Empower Your Membership Website"
+msgstr ""
+
+#: admin/tabs/pro.php:39
+msgid ""
+"This add-on helps you to improve your client's satisfaction. It Allows your "
+"clients to check their orders directly from Easy WP Mebers Dashboard. "
+msgstr ""
+
+#: admin/tabs/pro.php:49
+msgid ""
+"This add-on allows your members enter their credit card details during the "
+"checkout process and never leave your site, resulting in a better experience "
+"for your members, and more successful conversions for you."
+msgstr ""
+
+#: admin/tabs/pro.php:60
+msgid ""
+"This add-on allows you to sell subscriptions with recurring payments, you "
+"can charge your members daily, weekly, monthly and yearly."
+msgstr ""
+
+#: admin/tabs/pro.php:69
+msgid ""
+"By installing this add-on your members will be able to purchase multiple "
+"subscription plans with the same account"
+msgstr ""
+
+#: admin/tabs/pro.php:78
+msgid ""
+"You can help to protect your users by managing and monitoring the strength "
+"of their passwords."
+msgstr ""
+
+#: admin/tabs/pro.php:88
+msgid ""
+"Display content based on user roles. Example: Post A is visible to "
+"subscribers, Posts C & D are visible to administrators only."
+msgstr ""
+
+#: admin/tabs/settings.php:5
+msgid "Plugin Settings"
+msgstr ""
+
+#: admin/tabs/settings.php:14
+msgid "General"
+msgstr ""
+
+#: admin/tabs/settings.php:16
+msgid "Advanced Messaging Settings"
+msgstr ""
+
+#: admin/tabs/settings.php:17
+msgid "Posts & Pages Protection "
+msgstr ""
+
+#: admin/tabs/settings.php:17
+msgid "Posts & Pages Protection"
+msgstr ""
+
+#: admin/tabs/settings.php:20
+msgid "Newsletter"
+msgstr ""
+
+#: admin/tabs/settings.php:22 admin/tabs/settings.php:34
+msgid "reCaptcha"
+msgstr ""
+
+#: admin/tabs/settings.php:38
+msgid ""
+"Please make sure that Easy WP Members reCaptcha (Add-on) plugin is active."
+msgstr ""
+
+#: admin/tabs/settings.php:48
+msgid ""
+"This is a free add-on which was developed to help you to protect your ticket "
+"system against spammers."
+msgstr ""
+
+#: admin/tabs/settings.php:50
+msgid "You can get the Site Key and Secret Key on Google reCaptcha Dashboard"
+msgstr ""
+
+#: admin/tabs/settings.php:50 admin/tabs/settings.php:52
+msgid "Click here"
+msgstr ""
+
+#: admin/tabs/settings.php:52
+msgid "You may check the reCaptcha setup tutorial as well. "
+msgstr ""
+
+#: admin/tabs/settings.php:63
+msgid "Site Key:"
+msgstr ""
+
+#: admin/tabs/settings.php:64 admin/tabs/settings.php:65
+msgid "Enter your site key here."
+msgstr ""
+
+#: admin/tabs/settings.php:71
+msgid "Secret Key:"
+msgstr ""
+
+#: admin/tabs/settings.php:72 admin/tabs/settings.php:73
+msgid "Enter your site secret here."
+msgstr ""
+
+#: admin/tabs/settings.php:83
+msgid "Where to display?"
+msgstr ""
+
+#: admin/tabs/settings.php:86
+msgid "Select what forms will be protected by reCaptcha"
+msgstr ""
+
+#: admin/tabs/settings.php:95
+msgid "Registration Form"
+msgstr ""
+
+#: admin/tabs/settings.php:97 admin/tabs/settings.php:98
+msgid "If checked, the reCaptcha will be displayed in the registration form."
+msgstr ""
+
+#: admin/tabs/settings.php:106 admin/tabs/settings.php:107
+msgid "If checked, the reCaptcha will be displayed in the login form."
+msgstr ""
+
+#: admin/tabs/settings.php:114
+msgid "Forgot Password Form"
+msgstr ""
+
+#: admin/tabs/settings.php:116 admin/tabs/settings.php:117
+msgid ""
+"If checked, the reCaptcha will be displayed in the forgot password form."
+msgstr ""
+
+#: admin/tabs/settings.php:124 classes/easywpm.admin.php:1247
+#: classes/easywpm.class.php:887 classes/easywpm.class.php:957
+#: classes/easywpm.class.php:1014
+msgid "Comments"
+msgstr ""
+
+#: admin/tabs/settings.php:126 admin/tabs/settings.php:127
+msgid "If checked, the reCaptcha will be displayed in the comments form."
+msgstr ""
+
+#: admin/tabs/settings.php:150
+msgid "Registration Settings"
+msgstr ""
+
+#: admin/tabs/settings.php:151
+msgid ""
+"These settings allow you to define rules on how the members can register in "
+"your website."
+msgstr ""
+
+#: admin/tabs/settings.php:161
+msgid "Registration Type"
+msgstr ""
+
+#: admin/tabs/settings.php:164
+msgid "Paid Subscriptions - Enables the Subscriptions Features"
+msgstr ""
+
+#: admin/tabs/settings.php:165
+msgid "Disable Paid Subscriptions - This will remove the Payment Options"
+msgstr ""
+
+#: admin/tabs/settings.php:168 admin/tabs/settings.php:169
+msgid ""
+"Please note: If you disable the Paid Subscriptions the subscriptions plans "
+"and the payment methods will be removed from the reistration form."
+msgstr ""
+
+#: admin/tabs/settings.php:187
+msgid "Miscellaneous  Settings"
+msgstr ""
+
+#: admin/tabs/settings.php:192
+msgid "Site Time: "
+msgstr ""
+
+#: admin/tabs/settings.php:192
+msgid "GMT: "
+msgstr ""
+
+#: admin/tabs/settings.php:202
+msgid "Company Name:"
+msgstr ""
+
+#: admin/tabs/settings.php:203 admin/tabs/settings.php:204
+msgid "Enter your company name here."
+msgstr ""
+
+#: admin/tabs/settings.php:210
+msgid "Company Phone Nunber:"
+msgstr ""
+
+#: admin/tabs/settings.php:211 admin/tabs/settings.php:212
+msgid "Enter your company phone number here."
+msgstr ""
+
+#: admin/tabs/settings.php:218
+msgid "Allowed Extensions:"
+msgstr ""
+
+#: admin/tabs/settings.php:219
+msgid ""
+"Enter the allowed extensions separated by commas. Example:  jpg,png,gif,jpeg,"
+"pdf,doc,docx,xls"
+msgstr ""
+
+#: admin/tabs/settings.php:220
+msgid ""
+"Enter the allowed extensions separated by commas. Example: jpg,png,gif,jpeg,"
+"pdf,doc,docx,xls"
+msgstr ""
+
+#: admin/tabs/settings.php:274
+msgid "Date Format:"
+msgstr ""
+
+#: admin/tabs/settings.php:276 admin/tabs/settings.php:277
+msgid "Select the date format to be used"
+msgstr ""
+
+#: admin/tabs/settings.php:283
+msgid "Date Picker Format:"
+msgstr ""
+
+#: admin/tabs/settings.php:285 admin/tabs/settings.php:286
+msgid "Select the date format to be used on the Date Picker"
+msgstr ""
+
+#: admin/tabs/settings.php:292
+msgid "Display Time Format:"
+msgstr ""
+
+#: admin/tabs/settings.php:294 admin/tabs/settings.php:295
+msgid "Select the time format to be used"
+msgstr ""
+
+#: admin/tabs/settings.php:304
+msgid "Use Easy WP Members Avatar"
+msgstr ""
+
+#: admin/tabs/settings.php:310
+msgid ""
+"If you select \"yes\", Easy WP Members will override the default WordPress "
+"Avatar"
+msgstr ""
+
+#: admin/tabs/settings.php:311
+msgid ""
+"If you select \"yes\",  Easy WP Members will override the default WordPress "
+"Avatar"
+msgstr ""
+
+#: admin/tabs/settings.php:317
+msgid "Auto Rotation Fixer"
+msgstr ""
+
+#: admin/tabs/settings.php:323 admin/tabs/settings.php:324
+msgid ""
+"If you select 'yes',  Easy WP Members will Automatically fix the rotation of "
+"JPEG images using PHP's EXIF extension, immediately after they are uploaded "
+"to the server. This is implemented for iPhone rotation issues"
+msgstr ""
+
+#: admin/tabs/settings.php:330
+msgid "Avatar Width:"
+msgstr ""
+
+#: admin/tabs/settings.php:331 admin/tabs/settings.php:332
+msgid "Width in pixels"
+msgstr ""
+
+#: admin/tabs/settings.php:338
+msgid "Avatar Height"
+msgstr ""
+
+#: admin/tabs/settings.php:339 admin/tabs/settings.php:340
+msgid "Height in pixels"
+msgstr ""
+
+#: admin/tabs/settings.php:374
+msgid "General Rules"
+msgstr ""
+
+#: admin/tabs/settings.php:375
+msgid ""
+"These settings allow you to define rules on how the users and admin are "
+"notified when a new subscription is purchased from the front-end."
+msgstr ""
+
+#: admin/tabs/settings.php:385 admin/tabs/settings.php:444
+#: admin/tabs/settings.php:490
+msgid "Send Email Notifications to Admin?:"
+msgstr ""
+
+#: admin/tabs/settings.php:391 admin/tabs/settings.php:392
+#: admin/tabs/settings.php:437 admin/tabs/settings.php:438
+#: admin/tabs/settings.php:483 admin/tabs/settings.php:484
+msgid ""
+"This allows you to block email notifications that are sent to the admin."
+msgstr ""
+
+#: admin/tabs/settings.php:398
+msgid "Send Email Notifications to Clients?:"
+msgstr ""
+
+#: admin/tabs/settings.php:404 admin/tabs/settings.php:405
+#: admin/tabs/settings.php:450 admin/tabs/settings.php:451
+#: admin/tabs/settings.php:496 admin/tabs/settings.php:497
+msgid ""
+"This allows you to block email notifications that are sent to the clients."
+msgstr ""
+
+#: admin/tabs/settings.php:420
+msgid "New Membership Purchase Notifications"
+msgstr ""
+
+#: admin/tabs/settings.php:421
+msgid ""
+"These settings allow you to define rules on how the users and admin are "
+"notified when a new subscription is purchased."
+msgstr ""
+
+#: admin/tabs/settings.php:431 admin/tabs/settings.php:477
+msgid "Send Email Notifications to Client?:"
+msgstr ""
+
+#: admin/tabs/settings.php:466
+msgid "Membership Renewal Notifications"
+msgstr ""
+
+#: admin/tabs/settings.php:467
+msgid ""
+"These settings allow you to define rules on how the users and admin are "
+"notified when a new subscription is renewed."
+msgstr ""
+
+#: admin/tabs/settings.php:527
+msgid "Global Protection Settings"
+msgstr ""
+
+#: admin/tabs/settings.php:528
+msgid ""
+"In this section you can manage Posts & Pages Protection module settings."
+msgstr ""
+
+#: admin/tabs/settings.php:529
+msgid ""
+"This module will let you block pages and any post types and make them "
+"visible only to logged in users."
+msgstr ""
+
+#: admin/tabs/settings.php:532
+msgid "Posts & Pages Protection Activation."
+msgstr ""
+
+#: admin/tabs/settings.php:541
+msgid "Protection Active"
+msgstr ""
+
+#: admin/tabs/settings.php:547 admin/tabs/settings.php:548
+msgid ""
+"By selecting 'yes' the options to protect posts and pages will be enabled."
+msgstr ""
+
+#: admin/tabs/settings.php:553
+msgid "Logged in users only"
+msgstr ""
+
+#: admin/tabs/settings.php:554
+msgid "Membership only"
+msgstr ""
+
+#: admin/tabs/settings.php:555
+msgid "Only Certain Roles"
+msgstr ""
+
+#: admin/tabs/settings.php:561
+msgid "Protection Method"
+msgstr ""
+
+#: admin/tabs/settings.php:564 admin/tabs/settings.php:565
+msgid ""
+"By selecting 'Logged in users only' the pots/pages will be visible to logged "
+"in usrers only."
+msgstr ""
+
+#: admin/tabs/settings.php:573
+msgid "Set up the behaviour of locked posts."
+msgstr ""
+
+#: admin/tabs/settings.php:582
+msgid "Hide Complete Posts?"
+msgstr ""
+
+#: admin/tabs/settings.php:588
+msgid ""
+"By selecting 'yes' will hide posts if the user has no access.  "
+"<strong>Please note: </strong> a 404 error message will be displayed since "
+"the post will be completely locked out."
+msgstr ""
+
+#: admin/tabs/settings.php:589
+msgid "By selecting 'yes' will hide posts if the user has no access"
+msgstr ""
+
+#: admin/tabs/settings.php:595
+msgid "Hide Post Title?"
+msgstr ""
+
+#: admin/tabs/settings.php:601 admin/tabs/settings.php:602
+#: admin/tabs/settings.php:778 admin/tabs/settings.php:779
+msgid ""
+"By selecting 'yes' will show the text which is defined at 'Post title' if "
+"user has no access."
+msgstr ""
+
+#: admin/tabs/settings.php:608
+msgid "Post Title:"
+msgstr ""
+
+#: admin/tabs/settings.php:609 admin/tabs/settings.php:610
+msgid "This will be the displayed text as post title if user has no access."
+msgstr ""
+
+#: admin/tabs/settings.php:617
+msgid "Show post content before &lt;!--more--&gt; tag?"
+msgstr ""
+
+#: admin/tabs/settings.php:623 admin/tabs/settings.php:624
+msgid ""
+"By selecting \"Yes\"  will display the post content before the &lt;!--more--"
+"&gt; tag and after that the defined text at \"Post content\". If no &lt;!--"
+"more--&gt;  is set he defined text at \"Post content\" will shown."
+msgstr ""
+
+#: admin/tabs/settings.php:631
+msgid "Post Content"
+msgstr ""
+
+#: admin/tabs/settings.php:632 admin/tabs/settings.php:633
+#: admin/tabs/settings.php:719 admin/tabs/settings.php:720
+msgid "This content will be displayed if user has no access. "
+msgstr ""
+
+#: admin/tabs/settings.php:640
+msgid "Hide Post Comments?"
+msgstr ""
+
+#: admin/tabs/settings.php:646 admin/tabs/settings.php:647
+msgid ""
+"By selecting 'yes' will show the text which is defined at 'Post comment "
+"text' if user has no access."
+msgstr ""
+
+#: admin/tabs/settings.php:653
+msgid "Post Comment Text:"
+msgstr ""
+
+#: admin/tabs/settings.php:654 admin/tabs/settings.php:655
+msgid "This will be displayed text as post comment text if user has no access."
+msgstr ""
+
+#: admin/tabs/settings.php:660
+msgid "Allows Post Comments?"
+msgstr ""
+
+#: admin/tabs/settings.php:666 admin/tabs/settings.php:667
+msgid "By selecting 'yes' allows users to comment on locked posts"
+msgstr ""
+
+#: admin/tabs/settings.php:675
+msgid "Set up the behaviour of locked pages."
+msgstr ""
+
+#: admin/tabs/settings.php:683
+msgid "Hide Complete Pages?"
+msgstr ""
+
+#: admin/tabs/settings.php:689
+msgid ""
+"By selecting 'yes' will hide pages if the user has no access. <strong>Please "
+"note: </strong> a 404 error message will be displayed since the page will be "
+"completely locked out."
+msgstr ""
+
+#: admin/tabs/settings.php:690
+msgid "By selecting 'yes' will hide pages if the user has no access"
+msgstr ""
+
+#: admin/tabs/settings.php:696
+msgid "Hide Page Title?"
+msgstr ""
+
+#: admin/tabs/settings.php:702 admin/tabs/settings.php:703
+msgid ""
+"By selecting 'yes' will show the text which is defined at 'Page title' if "
+"user has no access."
+msgstr ""
+
+#: admin/tabs/settings.php:709
+msgid "Page Title:"
+msgstr ""
+
+#: admin/tabs/settings.php:710 admin/tabs/settings.php:711
+msgid "This will be the displayed text as page title if user has no access."
+msgstr ""
+
+#: admin/tabs/settings.php:718
+msgid "Page Content"
+msgstr ""
+
+#: admin/tabs/settings.php:727
+msgid "Hide Page Comments?"
+msgstr ""
+
+#: admin/tabs/settings.php:733 admin/tabs/settings.php:734
+msgid ""
+"By selecting 'yes' will show the text which is defined at 'Page comment "
+"text' if user has no access."
+msgstr ""
+
+#: admin/tabs/settings.php:742
+msgid "Page Comment Text:"
+msgstr ""
+
+#: admin/tabs/settings.php:743 admin/tabs/settings.php:744
+msgid "This will be displayed text as page comment text if user has no access."
+msgstr ""
+
+#: admin/tabs/settings.php:749
+msgid "Allows Page Comments?"
+msgstr ""
+
+#: admin/tabs/settings.php:755 admin/tabs/settings.php:756
+msgid "By selecting 'yes' allows users to comment on locked pages"
+msgstr ""
+
+#: admin/tabs/settings.php:763
+msgid "Other Settings."
+msgstr ""
+
+#: admin/tabs/settings.php:772
+msgid "Hide Post Feed?"
+msgstr ""
+
+#: admin/tabs/settings.php:806
+msgid "Newsletter Preferences"
+msgstr ""
+
+#: admin/tabs/settings.php:808
+msgid "Here you can activate your preferred newsletter tool."
+msgstr ""
+
+#: admin/tabs/settings.php:816
+msgid "Activate Newsletter"
+msgstr ""
+
+#: admin/tabs/settings.php:819
+msgid "AWeber"
+msgstr ""
+
+#: admin/tabs/settings.php:820
+msgid "MailChimp"
+msgstr ""
+
+#: admin/tabs/settings.php:823 admin/tabs/settings.php:824
+msgid "Just set \"NO\" to deactivate the newsletter tool."
+msgstr ""
+
+#: admin/tabs/settings.php:844
+msgid "This function is available only on certain versions."
+msgstr ""
+
+#: admin/tabs/settings.php:855
+msgid "Aweber Settings"
+msgstr ""
+
+#: admin/tabs/settings.php:857
+msgid ""
+"This module gives you the capability to subscribe your clients automatically "
+"to any of your Aweber List when they submit a ticket."
+msgstr ""
+
+#: admin/tabs/settings.php:867
+msgid "APP ID"
+msgstr ""
+
+#: admin/tabs/settings.php:868 admin/tabs/settings.php:869
+msgid "Fill out this field with your AWeber APP ID."
+msgstr ""
+
+#: admin/tabs/settings.php:875
+msgid "Consumer Key"
+msgstr ""
+
+#: admin/tabs/settings.php:876 admin/tabs/settings.php:877
+msgid "Fill out this field your AWeber Consumer Key."
+msgstr ""
+
+#: admin/tabs/settings.php:883
+msgid "Consumer Secret"
+msgstr ""
+
+#: admin/tabs/settings.php:884 admin/tabs/settings.php:885
+msgid "Fill out this field your AWeber Consumer Secret."
+msgstr ""
+
+#: admin/tabs/settings.php:894
+msgid "Auto Checked Aweber"
+msgstr ""
+
+#: admin/tabs/settings.php:896 admin/tabs/settings.php:897
+msgid ""
+"If checked, the user will not need to click on the AWeber checkbox. It will "
+"appear checked already."
+msgstr ""
+
+#: admin/tabs/settings.php:902
+msgid "Aweber Text"
+msgstr ""
+
+#: admin/tabs/settings.php:903 admin/tabs/settings.php:904
+#: admin/tabs/settings.php:972 admin/tabs/settings.php:973
+msgid ""
+"Please input the text that will appear when asking users to get periodical "
+"updates."
+msgstr ""
+
+#: admin/tabs/settings.php:910
+msgid "Aweber Header Text"
+msgstr ""
+
+#: admin/tabs/settings.php:911 admin/tabs/settings.php:912
+msgid "Please input the text that will appear as header when AWeber is active."
+msgstr ""
+
+#: admin/tabs/settings.php:933
+msgid "MailChimp Settings"
+msgstr ""
+
+#: admin/tabs/settings.php:945
+msgid "MailChimp API Key"
+msgstr ""
+
+#: admin/tabs/settings.php:946 admin/tabs/settings.php:947
+msgid ""
+"Fill out this field with your MailChimp API key here to allow integration "
+"with MailChimp subscription."
+msgstr ""
+
+#: admin/tabs/settings.php:953
+msgid "MailChimp List ID"
+msgstr ""
+
+#: admin/tabs/settings.php:954 admin/tabs/settings.php:955
+msgid "Fill out this field your list ID."
+msgstr ""
+
+#: admin/tabs/settings.php:963
+msgid "Auto Checked MailChimp"
+msgstr ""
+
+#: admin/tabs/settings.php:965 admin/tabs/settings.php:966
+msgid ""
+"If checked, the user will not need to click on the mailchip checkbox. It "
+"will appear checked already."
+msgstr ""
+
+#: admin/tabs/settings.php:971
+msgid "MailChimp Text"
+msgstr ""
+
+#: admin/tabs/settings.php:979
+msgid "MailChimp Header Text"
+msgstr ""
+
+#: admin/tabs/settings.php:980 admin/tabs/settings.php:981
+msgid ""
+"Please input the text that will appear as header when mailchip is active."
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:45
+#: templates/basic/template-parts/subscription_detail.php:51
+msgid "One-time"
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:48
+#: templates/basic/template-parts/subscription_detail.php:54
+msgid "Recurring "
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:61
+#: templates/basic/template-parts/subscription_detail.php:78
+msgid "Membership: "
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:62
+msgid "Edit Membership: "
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:62 admin/tabs/subscriptions-edit.php:186
+msgid "Edit Membership"
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:70 admin/tabs/users-edit.php:64
+#: templates/basic/template-parts/subscription_detail.php:91
+msgid "ID:"
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:76
+#: templates/basic/template-parts/subscription_detail.php:97
+msgid "Profile ID:"
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:82
+#: templates/basic/template-parts/subscription_detail.php:103
+msgid "Date:"
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:86
+#: templates/basic/template-parts/subscription_detail.php:107
+msgid "Starts:"
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:90
+#: templates/basic/template-parts/subscription_detail.php:111
+msgid "Ends:"
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:94
+#: templates/basic/template-parts/subscription_detail.php:115
+msgid "Type:"
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:98 admin/tabs/users-edit.php:84
+#: classes/easywpm.membership.php:123
+msgid "Status:"
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:102
+#: templates/basic/template-parts/subscription_detail.php:119
+msgid "Subscription Agreement:"
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:112 admin/tabs/users-edit.php:176
+#: templates/basic/template-parts/subscription_detail.php:129
+msgid "Payments"
+msgstr ""
+
+#: admin/tabs/subscriptions-edit.php:172
+#: templates/basic/template-parts/subscription_detail.php:189
+msgid "There are no payments for this subscription"
+msgstr ""
+
+#: admin/tabs/subscriptions.php:79
+msgid "SUBSCRIPTIONS"
+msgstr ""
+
+#: admin/tabs/subscriptions.php:180
+msgid "Merchant ID"
+msgstr ""
+
+#: admin/tabs/users-edit.php:20
+msgid "Oops! Invalid User."
+msgstr ""
+
+#: admin/tabs/users-edit.php:29
+msgid "Oops! Invalid ID."
+msgstr ""
+
+#: admin/tabs/users-edit.php:57
+msgid "Member: "
+msgstr ""
+
+#: admin/tabs/users-edit.php:70
+msgid "Register Date:"
+msgstr ""
+
+#: admin/tabs/users-edit.php:74
+msgid "Active Subscriptions:"
+msgstr ""
+
+#: admin/tabs/users-edit.php:78
+msgid "Expired Subscriptions:"
+msgstr ""
+
+#: admin/tabs/users-edit.php:97 admin/tabs/users.php:179
+#: classes/easywpm.admin.php:59
+#: templates/basic/template-parts/subscriptions.php:17
+msgid "Subscriptions"
+msgstr ""
+
+#: admin/tabs/users-edit.php:166
+msgid "You don't have subscriptions"
+msgstr ""
+
+#: admin/tabs/users-edit.php:196
+msgid "Plan"
+msgstr ""
+
+#: admin/tabs/users-edit.php:198
+msgid "Plan ID"
+msgstr ""
+
+#: admin/tabs/users-edit.php:248
+msgid "There are no payments for this user"
+msgstr ""
+
+#: admin/tabs/users.php:79
+msgid "MEMBERS"
+msgstr ""
+
+#: admin/tabs/users.php:81
+msgid "All members"
+msgstr ""
+
+#: admin/tabs/users.php:174
+msgid "Registration Date"
+msgstr ""
+
+#: admin/tabs/users.php:176 classes/easywpm.profile.php:2736
+msgid "Username"
+msgstr ""
+
+#: admin/tabs/users.php:177 classes/easywpm.profile.php:2770
+msgid "Email"
+msgstr ""
+
+#: admin/tabs/users.php:208
+msgid "See Subscriptions"
+msgstr ""
+
+#: admin/tabs/welcome.php:15
+msgid "Manage Your Members & Subscriptions Easily"
+msgstr ""
+
+#: admin/tabs/welcome.php:28
+msgid ""
+"It's very importante that you follow the Getting Started Guide.  It explains "
+"how to create the basic pages such as: registration, login, account and "
+"password reset."
+msgstr ""
+
+#: admin/tabs/welcome.php:43
+msgid "Setup Your Payment Gateways"
+msgstr ""
+
+#: admin/tabs/welcome.php:45
+msgid ""
+"If you're going to charge your members you will have to set your payment "
+"gateway."
+msgstr ""
+
+#: admin/tabs/welcome.php:50
+msgid "Setup Stripe (Pro only)"
+msgstr ""
+
+#: admin/tabs/welcome.php:58
+msgid "Create Your Subscription Plans"
+msgstr ""
+
+#: admin/tabs/welcome.php:64
+msgid "Create Subscription Plans in Stripe?"
+msgstr ""
+
+#: admin/tabs/welcome.php:65
+msgid "Create A Subscription Plan with PayPal"
+msgstr ""
+
+#: admin/tabs/welcome.php:66
+msgid "Setup PayPal Standard (IPN)"
+msgstr ""
+
+#: admin/tabs/welcome.php:81
+msgid "Ok, take me to the dasbhoard"
+msgstr ""
+
+#: classes/easywpm.admin.php:56 templates/basic/template-parts/main.php:17
+msgid "Dashboard"
+msgstr ""
+
+#: classes/easywpm.admin.php:57
+msgid "Subscriptions Plans"
+msgstr ""
+
+#: classes/easywpm.admin.php:60
+msgid "Orders"
+msgstr ""
+
+#: classes/easywpm.admin.php:61
+msgid "Fields"
+msgstr ""
+
+#: classes/easywpm.admin.php:62
+msgid "Settings"
+msgstr ""
+
+#: classes/easywpm.admin.php:63
+msgid "Notifications"
+msgstr ""
+
+#: classes/easywpm.admin.php:64
+msgid "Gateways"
+msgstr ""
+
+#: classes/easywpm.admin.php:65
+msgid "Doc"
+msgstr ""
+
+#: classes/easywpm.admin.php:66
+msgid "GO PRO!"
+msgstr ""
+
+#: classes/easywpm.admin.php:139 classes/easywpm.admin.php:172
+msgid "Dismiss"
+msgstr ""
+
+#: classes/easywpm.admin.php:141 classes/easywpm.admin.php:155
+msgid "IMPORTANT: Member Account:"
+msgstr ""
+
+#: classes/easywpm.admin.php:141 classes/easywpm.admin.php:155
+msgid "It's very important that you set the member's accuont page."
+msgstr ""
+
+#: classes/easywpm.admin.php:145 classes/easywpm.admin.php:159
+msgid "Set Members Account Page"
+msgstr ""
+
+#: classes/easywpm.admin.php:174
+msgid "Do you find this plugin useful?"
+msgstr ""
+
+#: classes/easywpm.admin.php:174
+msgid ""
+"We offer free support, we love to do that, please consider leaving a 5 stars "
+"review on WordPress. That motivates us a lot to keep offering the best "
+"support for free."
+msgstr ""
+
+#: classes/easywpm.admin.php:178
+msgid "Rate Plugin!"
+msgstr ""
+
+#: classes/easywpm.admin.php:279
+msgid "Are you totally sure that you wan to delete this category?"
+msgstr ""
+
+#: classes/easywpm.admin.php:280
+msgid "Are you totally sure that you wan to delete this department?"
+msgstr ""
+
+#: classes/easywpm.admin.php:282
+msgid "Are you totally sure that you wan to send this ticket to the trash?"
+msgstr ""
+
+#: classes/easywpm.admin.php:284
+msgid "Are you totally sure?"
+msgstr ""
+
+#: classes/easywpm.admin.php:285
+msgid "Set a new priority"
+msgstr ""
+
+#: classes/easywpm.admin.php:289
+msgid "Edit Department"
+msgstr ""
+
+#: classes/easywpm.admin.php:290
+msgid "Add Department"
+msgstr ""
+
+#: classes/easywpm.admin.php:293
+msgid "Edit Priority"
+msgstr ""
+
+#: classes/easywpm.admin.php:294
+msgid "Add Priority"
+msgstr ""
+
+#: classes/easywpm.admin.php:297 classes/easywpm.profile.php:59
+msgid "ERROR!. Please write a message "
+msgstr ""
+
+#: classes/easywpm.admin.php:299 classes/easywpm.profile.php:60
+msgid " <img src=\""
+msgstr ""
+
+#: classes/easywpm.admin.php:300 classes/easywpm.profile.php:57
+msgid "<img src=\""
+msgstr ""
+
+#: classes/easywpm.admin.php:302
+msgid "Edit Product"
+msgstr ""
+
+#: classes/easywpm.admin.php:303
+msgid "Add Product"
+msgstr ""
+
+#: classes/easywpm.admin.php:305
+msgid "Edit Note"
+msgstr ""
+
+#: classes/easywpm.admin.php:307
+msgid "Edit Category"
+msgstr ""
+
+#: classes/easywpm.admin.php:308
+msgid "Add Category"
+msgstr ""
+
+#: classes/easywpm.admin.php:310 classes/easywpm.profile.php:70
+msgid "Please input a title"
+msgstr ""
+
+#: classes/easywpm.admin.php:311
+msgid "Are you totally sure that you wan to delete this service?"
+msgstr ""
+
+#: classes/easywpm.admin.php:312
+msgid "Are you totally sure that you wan to delete this user?"
+msgstr ""
+
+#: classes/easywpm.admin.php:314
+msgid "Please set a new status"
+msgstr ""
+
+#: classes/easywpm.admin.php:315
+msgid "Please set a new priority"
+msgstr ""
+
+#: classes/easywpm.admin.php:331 classes/easywpm.class.php:1157
+#: classes/easywpm.class.php:1190 classes/easywpm.class.php:1254
+#: classes/easywpm.profile.php:81
+msgid "Done"
+msgstr ""
+
+#: classes/easywpm.admin.php:333 classes/easywpm.class.php:1159
+#: classes/easywpm.class.php:1191 classes/easywpm.class.php:1256
+#: classes/easywpm.profile.php:83
+msgid "Prev"
+msgstr ""
+
+#: classes/easywpm.admin.php:334 classes/easywpm.class.php:1160
+#: classes/easywpm.class.php:1192 classes/easywpm.class.php:1257
+#: classes/easywpm.profile.php:84
+msgid "Next"
+msgstr ""
+
+#: classes/easywpm.admin.php:337 classes/easywpm.class.php:1163
+#: classes/easywpm.class.php:1260 classes/easywpm.profile.php:87
+msgid "Show a different month"
+msgstr ""
+
+#: classes/easywpm.admin.php:422
+#, php-format
+msgid "%d new manual activation requests"
+msgstr ""
+
+#: classes/easywpm.admin.php:425
+#, php-format
+msgid "Easy WP Members %s"
+msgstr ""
+
+#: classes/easywpm.admin.php:429 classes/easywpm.admin.php:432
+msgid "Easy WP Members"
+msgstr ""
+
+#: classes/easywpm.admin.php:440
+msgid "More Functionality!"
+msgstr ""
+
+#: classes/easywpm.admin.php:446
+msgid "Licensing"
+msgstr ""
+
+#: classes/easywpm.admin.php:532
+msgid "Password Reset Confirmation"
+msgstr ""
+
+#: classes/easywpm.admin.php:535
+msgid "Your Account Details"
+msgstr ""
+
+#: classes/easywpm.admin.php:538 classes/easywpm.admin.php:541
+msgid "Purchase Confirmation"
+msgstr ""
+
+#: classes/easywpm.admin.php:544 classes/easywpm.admin.php:547
+msgid "Membership Renewal Notification"
+msgstr ""
+
+#: classes/easywpm.admin.php:559
+msgid "Please use the following link to reset your password."
+msgstr ""
+
+#: classes/easywpm.admin.php:561
+msgid "If you did not request a new password delete this email."
+msgstr ""
+
+#: classes/easywpm.admin.php:563 classes/easywpm.admin.php:572
+#: classes/easywpm.admin.php:588 classes/easywpm.admin.php:607
+#: classes/easywpm.admin.php:627 classes/easywpm.admin.php:647
+#: classes/easywpm.admin.php:662
+msgid "Best Regards!"
+msgstr ""
+
+#: classes/easywpm.admin.php:570
+msgid "Your password has been updated successfully"
+msgstr ""
+
+#: classes/easywpm.admin.php:581 classes/easywpm.admin.php:596
+#: classes/easywpm.admin.php:654
+msgid "Hello "
+msgstr ""
+
+#: classes/easywpm.admin.php:582
+msgid ""
+"Thank you for your registration. Your login details for your account are as "
+"follows:"
+msgstr ""
+
+#: classes/easywpm.admin.php:583
+msgid "Username: {{easywpm_user_name}}"
+msgstr ""
+
+#: classes/easywpm.admin.php:584
+msgid "Password: {{easywpm_user_password}}"
+msgstr ""
+
+#: classes/easywpm.admin.php:585
+msgid "Please use the following link to login to your account."
+msgstr ""
+
+#: classes/easywpm.admin.php:597
+msgid ""
+"Thank you very much for your purchase. This email contains details about "
+"your recent purchase and subscription, please keep it as receipt."
+msgstr ""
+
+#: classes/easywpm.admin.php:599 classes/easywpm.admin.php:618
+msgid "Subscription Details. :"
+msgstr ""
+
+#: classes/easywpm.admin.php:601 classes/easywpm.admin.php:620
+#: classes/easywpm.admin.php:639 classes/easywpm.admin.php:658
+msgid "Subscription: {{easywpm_subscription_name}}"
+msgstr ""
+
+#: classes/easywpm.admin.php:602 classes/easywpm.admin.php:621
+#: classes/easywpm.admin.php:640
+msgid "ID: {{easywpm_subscription_id}}"
+msgstr ""
+
+#: classes/easywpm.admin.php:603 classes/easywpm.admin.php:622
+#: classes/easywpm.admin.php:642 classes/easywpm.admin.php:659
+msgid "Amount: {{easywpm_subscription_amount}}"
+msgstr ""
+
+#: classes/easywpm.admin.php:604 classes/easywpm.admin.php:624
+#: classes/easywpm.admin.php:644 classes/easywpm.admin.php:660
+msgid "Period: {{easywpm_period}}"
+msgstr ""
+
+#: classes/easywpm.admin.php:605 classes/easywpm.admin.php:625
+msgid "Agreement: {{easywpm_subscription_agreement}}"
+msgstr ""
+
+#: classes/easywpm.admin.php:615 classes/easywpm.admin.php:635
+msgid "Hello Admin, "
+msgstr ""
+
+#: classes/easywpm.admin.php:616
+msgid ""
+"This email is to notify you that a new subscription has been purchased. "
+"Please keep this email as a receipt."
+msgstr ""
+
+#: classes/easywpm.admin.php:623 classes/easywpm.admin.php:643
+msgid "Client: {{easywpm_client_name}}"
+msgstr ""
+
+#: classes/easywpm.admin.php:636
+msgid ""
+"This emails is a confirmation that a subscription has been renewed "
+"successfully. Please keep this email as receipt of the renewal. "
+msgstr ""
+
+#: classes/easywpm.admin.php:638 classes/easywpm.admin.php:657
+msgid "Subscription Renewal Details. :"
+msgstr ""
+
+#: classes/easywpm.admin.php:641
+msgid "Merchant ID: {{easywpm_subscription_profile_id}}"
+msgstr ""
+
+#: classes/easywpm.admin.php:655
+msgid ""
+"Thank you very much for renewing your subscription. This email contains "
+"useful information about the subscription renewal."
+msgstr ""
+
+#: classes/easywpm.admin.php:975
+msgid "Position"
+msgstr ""
+
+#: classes/easywpm.admin.php:980
+msgid ""
+"Please use a unique position. Position lets you place the new field in the "
+"place you want exactly in Profile view."
+msgstr ""
+
+#: classes/easywpm.admin.php:984
+msgid "Field Type"
+msgstr ""
+
+#: classes/easywpm.admin.php:988
+msgid "Profile Field"
+msgstr ""
+
+#: classes/easywpm.admin.php:994
+msgid "You can create a separator or a usermeta (profile field)"
+msgstr ""
+
+#: classes/easywpm.admin.php:1000
+msgid "Field Input"
+msgstr ""
+
+#: classes/easywpm.admin.php:1017
+msgid "Custom Meta Field"
+msgstr ""
+
+#: classes/easywpm.admin.php:1029
+msgid "Label / Name"
+msgstr ""
+
+#: classes/easywpm.admin.php:1093
+msgid "This field is Required"
+msgstr ""
+
+#: classes/easywpm.admin.php:1130
+msgid "Show on Registration Form"
+msgstr ""
+
+#: classes/easywpm.admin.php:1140
+msgid "Show this profile field on the registration form"
+msgstr ""
+
+#: classes/easywpm.admin.php:1158
+msgid "Available Choices"
+msgstr ""
+
+#: classes/easywpm.admin.php:1165
+msgid ""
+"<strong>PLEASE NOTE: </strong>Enter values separated by commas, example: "
+"1,2,3. The choices will be available for front end user to choose from."
+msgstr ""
+
+#: classes/easywpm.admin.php:1168
+msgid ""
+"<strong>PLEASE NOTE:</strong> Enter one choice per line please. The choices "
+"will be available for front end user to choose from."
+msgstr ""
+
+#: classes/easywpm.admin.php:1179
+msgid ""
+"Enter one choice per line please. The choices will be available for front "
+"end user to choose from."
+msgstr ""
+
+#: classes/easywpm.admin.php:1187
+msgid "Enable Predefined Choices"
+msgstr ""
+
+#: classes/easywpm.admin.php:1191
+msgid "None"
+msgstr ""
+
+#: classes/easywpm.admin.php:1194
+msgid "List of Countries"
+msgstr ""
+
+#: classes/easywpm.admin.php:1198
+msgid "Age"
+msgstr ""
+
+#: classes/easywpm.admin.php:1201
+msgid ""
+"You can enable a predefined filter for choices. e.g. List of countries It "
+"enables country selection in profiles and saves you time to do it on your "
+"own."
+msgstr ""
+
+#: classes/easywpm.admin.php:1215
+msgid "Update"
+msgstr ""
+
+#: classes/easywpm.admin.php:1234 classes/easywpm.class.php:1001
+msgid "Appointment Info"
+msgstr ""
+
+#: classes/easywpm.admin.php:1326
+msgid " - Separator"
+msgstr ""
+
+#: classes/easywpm.admin.php:1330
+msgid " - Profile Field"
+msgstr ""
+
+#: classes/easywpm.admin.php:1352
+msgid "Success! This field has been deleted "
+msgstr ""
+
+#: classes/easywpm.admin.php:1430
+msgid "Settings saved."
+msgstr ""
+
+#: classes/easywpm.admin.php:1567
+msgid "Select a Department"
+msgstr ""
+
+#: classes/easywpm.admin.php:1604
+msgid "Email Template has been restored."
+msgstr ""
+
+#: classes/easywpm.admin.php:1644
+#, php-format
+msgid ""
+"If you like <strong>Easy WP Members<strong> please consider leaving us a %s "
+"rating. A huge thank you from the Easy WP Members Team in advanced."
+msgstr ""
+
+#: classes/easywpm.class.php:173 classes/easywpm.membership.php:1099
+msgid "Cancelled"
+msgstr ""
+
+#: classes/easywpm.class.php:178
+msgid "Recurring Faild"
+msgstr ""
+
+#: classes/easywpm.class.php:183
+msgid "Recurring Expired"
+msgstr ""
+
+#: classes/easywpm.class.php:265
+msgid "second"
+msgstr ""
+
+#: classes/easywpm.class.php:266
+msgid "minute"
+msgstr ""
+
+#: classes/easywpm.class.php:267
+msgid "hour"
+msgstr ""
+
+#: classes/easywpm.class.php:268 classes/easywpm.class.php:663
+msgid "day"
+msgstr ""
+
+#: classes/easywpm.class.php:269 classes/easywpm.class.php:659
+msgid "week"
+msgstr ""
+
+#: classes/easywpm.class.php:270 classes/easywpm.class.php:655
+msgid "month"
+msgstr ""
+
+#: classes/easywpm.class.php:271 classes/easywpm.class.php:651
+msgid "year"
+msgstr ""
+
+#: classes/easywpm.class.php:272
+msgid "decade"
+msgstr ""
+
+#: classes/easywpm.class.php:289
+msgid "ago"
+msgstr ""
+
+#: classes/easywpm.class.php:293
+msgid "from now"
+msgstr ""
+
+#: classes/easywpm.class.php:633
+msgid " every "
+msgstr ""
+
+#: classes/easywpm.class.php:637
+msgid " one-time "
+msgstr ""
+
+#: classes/easywpm.class.php:831
+msgid "Text"
+msgstr ""
+
+#: classes/easywpm.class.php:832
+msgid "Textarea"
+msgstr ""
+
+#: classes/easywpm.class.php:833
+msgid "Select Dropdown"
+msgstr ""
+
+#: classes/easywpm.class.php:834
+msgid "Radio"
+msgstr ""
+
+#: classes/easywpm.class.php:835
+msgid "Checkbox"
+msgstr ""
+
+#: classes/easywpm.class.php:836
+msgid "Date Picker"
+msgstr ""
+
+#: classes/easywpm.class.php:849 classes/easywpm.class.php:911
+msgid "Your Name"
+msgstr ""
+
+#: classes/easywpm.class.php:858 classes/easywpm.class.php:922
+#: classes/easywpm.profile.php:2724
+msgid "Last Name"
+msgstr ""
+
+#: classes/easywpm.class.php:866 classes/easywpm.class.php:933
+msgid "E-mail"
+msgstr ""
+
+#: classes/easywpm.class.php:876 classes/easywpm.class.php:945
+#: classes/easywpm.user.php:64
+msgid "Subject"
+msgstr ""
+
+#: classes/easywpm.class.php:937
+msgid ""
+"A confirmation email will be sent to this email address. If you are already "
+"a client  please use the <strong>same email</strong> used to create your "
+"previous requests. Login information will be sent so you can check the "
+"status of your request."
+msgstr ""
+
+#: classes/easywpm.class.php:981 classes/easywpm.profile.php:3028
+#: classes/easywpm.profile.php:3167
+msgid "Username or Email"
+msgstr ""
+
+#: classes/easywpm.class.php:990 classes/easywpm.profile.php:2754
+#: classes/easywpm.profile.php:3043
+msgid "Password"
+msgstr ""
+
+#: classes/easywpm.class.php:1195
+msgid "January"
+msgstr ""
+
+#: classes/easywpm.class.php:1196
+msgid "February"
+msgstr ""
+
+#: classes/easywpm.class.php:1197
+msgid "March"
+msgstr ""
+
+#: classes/easywpm.class.php:1198
+msgid "April"
+msgstr ""
+
+#: classes/easywpm.class.php:1199 classes/easywpm.class.php:1213
+msgid "May"
+msgstr ""
+
+#: classes/easywpm.class.php:1200
+msgid "June"
+msgstr ""
+
+#: classes/easywpm.class.php:1201
+msgid "July"
+msgstr ""
+
+#: classes/easywpm.class.php:1202
+msgid "August"
+msgstr ""
+
+#: classes/easywpm.class.php:1203
+msgid "September"
+msgstr ""
+
+#: classes/easywpm.class.php:1204
+msgid "October"
+msgstr ""
+
+#: classes/easywpm.class.php:1205
+msgid "November"
+msgstr ""
+
+#: classes/easywpm.class.php:1206
+msgid "December"
+msgstr ""
+
+#: classes/easywpm.class.php:1209
+msgid "Jan"
+msgstr ""
+
+#: classes/easywpm.class.php:1210
+msgid "Feb"
+msgstr ""
+
+#: classes/easywpm.class.php:1211
+msgid "Mar"
+msgstr ""
+
+#: classes/easywpm.class.php:1212
+msgid "Apr"
+msgstr ""
+
+#: classes/easywpm.class.php:1214
+msgid "Jun"
+msgstr ""
+
+#: classes/easywpm.class.php:1215
+msgid "Jul"
+msgstr ""
+
+#: classes/easywpm.class.php:1216
+msgid "Aug"
+msgstr ""
+
+#: classes/easywpm.class.php:1217
+msgid "Sep"
+msgstr ""
+
+#: classes/easywpm.class.php:1218
+msgid "Oct"
+msgstr ""
+
+#: classes/easywpm.class.php:1219
+msgid "Nov"
+msgstr ""
+
+#: classes/easywpm.class.php:1220
+msgid "Dec"
+msgstr ""
+
+#: classes/easywpm.class.php:1223
+msgid "Sunday"
+msgstr ""
+
+#: classes/easywpm.class.php:1224
+msgid "Monday"
+msgstr ""
+
+#: classes/easywpm.class.php:1225
+msgid "Tuesday"
+msgstr ""
+
+#: classes/easywpm.class.php:1226
+msgid "Wednesday"
+msgstr ""
+
+#: classes/easywpm.class.php:1227
+msgid "Thursday"
+msgstr ""
+
+#: classes/easywpm.class.php:1228
+msgid "Friday"
+msgstr ""
+
+#: classes/easywpm.class.php:1229
+msgid "Saturday"
+msgstr ""
+
+#: classes/easywpm.class.php:1232
+msgid "Sun"
+msgstr ""
+
+#: classes/easywpm.class.php:1233
+msgid "Mon"
+msgstr ""
+
+#: classes/easywpm.class.php:1234
+msgid "Tue"
+msgstr ""
+
+#: classes/easywpm.class.php:1235
+msgid "Wed"
+msgstr ""
+
+#: classes/easywpm.class.php:1236
+msgid "Thu"
+msgstr ""
+
+#: classes/easywpm.class.php:1237
+msgid "Fri"
+msgstr ""
+
+#: classes/easywpm.class.php:1238
+msgid "Sat"
+msgstr ""
+
+#: classes/easywpm.class.php:1241
+msgid "Su"
+msgstr ""
+
+#: classes/easywpm.class.php:1242
+msgid "Mo"
+msgstr ""
+
+#: classes/easywpm.class.php:1243
+msgid "Tu"
+msgstr ""
+
+#: classes/easywpm.class.php:1244
+msgid "We"
+msgstr ""
+
+#: classes/easywpm.class.php:1245
+msgid "Th"
+msgstr ""
+
+#: classes/easywpm.class.php:1246
+msgid "Fr"
+msgstr ""
+
+#: classes/easywpm.class.php:1247
+msgid "Sa"
+msgstr ""
+
+#: classes/easywpm.class.php:1300 classes/easywpm.class.php:1416
+#: classes/easywpm.profile.php:2677
+msgid "Sign Up"
+msgstr ""
+
+#: classes/easywpm.class.php:1329 classes/easywpm.class.php:1444
+#: classes/easywpm.profile.php:2700
+msgid "Your request has been sent successfully. Please check your email."
+msgstr ""
+
+#: classes/easywpm.class.php:1350
+msgid "Please submit a ticket through your account."
+msgstr ""
+
+#: classes/easywpm.class.php:1473 classes/easywpm.membership.php:204
+msgid " * This field is required!"
+msgstr ""
+
+#: classes/easywpm.class.php:1474
+msgid "Select"
+msgstr ""
+
+#: classes/easywpm.class.php:1623 classes/easywpm.class.php:1627
+#: classes/easywpm.class.php:1650 classes/easywpm.profile.php:2715
+#: classes/easywpm.profile.php:2727 classes/easywpm.profile.php:2739
+#: classes/easywpm.profile.php:2757 classes/easywpm.profile.php:2777
+#: classes/easywpm.profile.php:3034 classes/easywpm.profile.php:3049
+#: classes/easywpm.profile.php:3182 classes/easywpm.profile.php:3199
+msgid " * This input is required!"
+msgstr ""
+
+#: classes/easywpm.class.php:2036 classes/easywpm.class.php:2285
+#: classes/easywpm.profile.php:292
+msgid "Allowed Files"
+msgstr ""
+
+#: classes/easywpm.class.php:2074 classes/easywpm.class.php:2327
+msgid "Drop files here or"
+msgstr ""
+
+#: classes/easywpm.class.php:2079 classes/easywpm.class.php:2337
+msgid "Select Files"
+msgstr ""
+
+#: classes/easywpm.class.php:2108 classes/easywpm.class.php:2365
+msgid "'You may only upload one image at a time!'"
+msgstr ""
+
+#: classes/easywpm.class.php:2109 classes/easywpm.class.php:2366
+msgid "'The file you selected exceeds the maximum filesize limit.'"
+msgstr ""
+
+#: classes/easywpm.class.php:2110 classes/easywpm.class.php:2367
+msgid "Upload Completed!"
+msgstr ""
+
+#: classes/easywpm.membership.php:119
+msgid "Start Date:"
+msgstr ""
+
+#: classes/easywpm.membership.php:120
+msgid "Please input start date for this membership"
+msgstr ""
+
+#: classes/easywpm.membership.php:121
+msgid "Expiration Date:"
+msgstr ""
+
+#: classes/easywpm.membership.php:122
+msgid "Please input expiration date for this membership"
+msgstr ""
+
+#: classes/easywpm.membership.php:129
+msgid "Lifetime:"
+msgstr ""
+
+#: classes/easywpm.membership.php:131
+msgid "Make Lifetime"
+msgstr ""
+
+#: classes/easywpm.membership.php:131
+msgid "Make Lifetime Subscription"
+msgstr ""
+
+#: classes/easywpm.membership.php:163
+msgid "ID missed"
+msgstr ""
+
+#: classes/easywpm.membership.php:166
+msgid "Please input start and end date"
+msgstr ""
+
+#: classes/easywpm.membership.php:169
+msgid "End date should be greater than start date\n"
+msgstr ""
+
+#: classes/easywpm.membership.php:173
+msgid "Please set a status"
+msgstr ""
+
+#: classes/easywpm.membership.php:205
+msgid "Select Status"
+msgstr ""
+
+#: classes/easywpm.membership.php:232
+msgid "<strong>ERROR:</strong> Please input Name."
+msgstr ""
+
+#: classes/easywpm.membership.php:236 classes/easywpm.membership.php:367
+msgid "<strong>ERROR:</strong> Please input a description."
+msgstr ""
+
+#: classes/easywpm.membership.php:240 classes/easywpm.membership.php:371
+msgid "<strong>ERROR:</strong> Please input Initial Payment."
+msgstr ""
+
+#: classes/easywpm.membership.php:244 classes/easywpm.membership.php:375
+msgid "<strong>ERROR:</strong> Please input Recurring Amount."
+msgstr ""
+
+#: classes/easywpm.membership.php:340
+msgid "The subscription has been created successfully."
+msgstr ""
+
+#: classes/easywpm.membership.php:358
+msgid "<strong>ERROR:</strong> Please input a Name."
+msgstr ""
+
+#: classes/easywpm.membership.php:363
+msgid "<strong>ERROR:</strong> Please input subscription ID."
+msgstr ""
+
+#: classes/easywpm.membership.php:488
+msgid "The subscription has been modified successfully."
+msgstr ""
+
+#: classes/easywpm.membership.php:1103
+msgid "Recurring Failed"
+msgstr ""
+
+#: classes/easywpm.membership.php:1107
+msgid "Expired"
+msgstr ""
+
+#: classes/easywpm.membership.php:1200 classes/easywpm.membership.php:1379
+msgid "You have no packages yet."
+msgstr ""
+
+#: classes/easywpm.membership.php:1347
+msgid "Choose Subscription Plan"
+msgstr ""
+
+#: classes/easywpm.order.php:1043
+msgid "You have no orders."
+msgstr ""
+
+#: classes/easywpm.order.php:1062
+msgid "Order #"
+msgstr ""
+
+#: classes/easywpm.order.php:1063
+msgid "Total"
+msgstr ""
+
+#: classes/easywpm.order.php:1065
+msgid "Package"
+msgstr ""
+
+#: classes/easywpm.postprotection.php:811
+#: classes/easywpm.postprotection.php:878
+msgid "Please create a subscription first."
+msgstr ""
+
+#: classes/easywpm.postprotection.php:940
+msgid "Only Logged in Users"
+msgstr ""
+
+#: classes/easywpm.postprotection.php:1025
+msgid "You can't see this content."
+msgstr ""
+
+#: classes/easywpm.postprotection.php:1036
+msgid "Content visible only for registered users. "
+msgstr ""
+
+#: classes/easywpm.profile.php:61
+msgid "You must make a selection first"
+msgstr ""
+
+#: classes/easywpm.profile.php:69
+msgid "Are you sure?"
+msgstr ""
+
+#: classes/easywpm.profile.php:71
+msgid "Please write a message"
+msgstr ""
+
+#: classes/easywpm.profile.php:320
+msgid "Drop "
+msgstr ""
+
+#: classes/easywpm.profile.php:326
+msgid "Select Image"
+msgstr ""
+
+#: classes/easywpm.profile.php:331
+msgid "Remove"
+msgstr ""
+
+#: classes/easywpm.profile.php:406
+msgid "You may only upload one image at a time!"
+msgstr ""
+
+#: classes/easywpm.profile.php:421
+msgid "The file you selected exceeds the maximum filesize limit."
+msgstr ""
+
+#: classes/easywpm.profile.php:731
+msgid "Crop & Save"
+msgstr ""
+
+#: classes/easywpm.profile.php:1019 classes/easywpm.profile.php:3279
+msgid " ERROR! Password must be identical "
+msgstr ""
+
+#: classes/easywpm.profile.php:1025 classes/easywpm.profile.php:3285
+msgid " ERROR! Password should contain at least 7 alphanumeric characters "
+msgstr ""
+
+#: classes/easywpm.profile.php:1046
+msgid ""
+" Success!! The new password has been changed. Please click on the login link "
+"to get in your account.  "
+msgstr ""
+
+#: classes/easywpm.profile.php:1093
+msgid " Success!! Your Personal Details Were Updated  "
+msgstr ""
+
+#: classes/easywpm.profile.php:1119
+msgid " ERROR! Please type your new email "
+msgstr ""
+
+#: classes/easywpm.profile.php:1125
+msgid " ERROR! Please type a valid email address "
+msgstr ""
+
+#: classes/easywpm.profile.php:1144
+msgid " ERROR! You haven't changed your email. "
+msgstr ""
+
+#: classes/easywpm.profile.php:1153
+msgid " ERROR! The email is in use already "
+msgstr ""
+
+#: classes/easywpm.profile.php:1196
+msgid " Success!! Your email account has been changed to : "
+msgstr ""
+
+#: classes/easywpm.profile.php:1258
+msgid "Unread Messages"
+msgstr ""
+
+#: classes/easywpm.profile.php:1564
+msgid "<strong>ERROR:</strong> Please input your First Name."
+msgstr ""
+
+#: classes/easywpm.profile.php:1568
+msgid "<strong>ERROR:</strong> Please input your Last Name."
+msgstr ""
+
+#: classes/easywpm.profile.php:1572
+msgid "<strong>ERROR:</strong> Please input an email address."
+msgstr ""
+
+#: classes/easywpm.profile.php:1576
+msgid "<strong>ERROR:</strong> reCaptcha validation failed."
+msgstr ""
+
+#: classes/easywpm.profile.php:1587
+msgid "<strong>ERROR:</strong> The email address already exists."
+msgstr ""
+
+#: classes/easywpm.profile.php:1591
+msgid "<strong>ERROR:</strong> The username already exists."
+msgstr ""
+
+#: classes/easywpm.profile.php:1875 classes/easywpm.profile.php:2106
+msgid "<strong>ERROR:</strong> The username field is empty."
+msgstr ""
+
+#: classes/easywpm.profile.php:1883
+msgid "<strong>ERROR:</strong> The password field is empty."
+msgstr ""
+
+#: classes/easywpm.profile.php:1906
+msgid "<strong>ERROR:</strong> The captcha validation is wrong."
+msgstr ""
+
+#: classes/easywpm.profile.php:1927
+msgid "<strong>ERROR:</strong> Invalid Email was entered."
+msgstr ""
+
+#: classes/easywpm.profile.php:1981
+msgid "<strong>ERROR:</strong> Invalid Username was entered."
+msgstr ""
+
+#: classes/easywpm.profile.php:1984
+msgid "<strong>ERROR:</strong> Incorrect password was entered."
+msgstr ""
+
+#: classes/easywpm.profile.php:1988
+msgid "<strong>ERROR:</strong> Please provide Password."
+msgstr ""
+
+#: classes/easywpm.profile.php:2004 classes/easywpm.profile.php:2170
+msgid "<strong>ERROR:</strong> Your account is not active."
+msgstr ""
+
+#: classes/easywpm.profile.php:2052
+msgid " A reset link has been sent to the user. "
+msgstr ""
+
+#: classes/easywpm.profile.php:2099
+msgid "<strong>ERROR:</strong> The captcha validation is wrong.."
+msgstr ""
+
+#: classes/easywpm.profile.php:2126 classes/easywpm.profile.php:2148
+msgid "<strong>ERROR:</strong> Invalid Email or Username."
+msgstr ""
+
+#: classes/easywpm.profile.php:2210
+msgid " A reset link has been sent to your email. "
+msgstr ""
+
+#: classes/easywpm.profile.php:2706
+msgid "Account Data"
+msgstr ""
+
+#: classes/easywpm.profile.php:2712
+msgid "First Name"
+msgstr ""
+
+#: classes/easywpm.profile.php:2715
+msgid "Type your First Name"
+msgstr ""
+
+#: classes/easywpm.profile.php:2727
+msgid "Type your Last Name"
+msgstr ""
+
+#: classes/easywpm.profile.php:2739
+msgid "Type your Username"
+msgstr ""
+
+#: classes/easywpm.profile.php:2757 classes/easywpm.profile.php:3049
+#: classes/easywpm.profile.php:3182
+msgid "Type your Password"
+msgstr ""
+
+#: classes/easywpm.profile.php:2773
+msgid ""
+"The login information will be sent to this email address. A random password "
+"will be generated and you can change it later from your account."
+msgstr ""
+
+#: classes/easywpm.profile.php:2777
+msgid "Type your Email"
+msgstr ""
+
+#: classes/easywpm.profile.php:2788
+#: templates/basic/template-parts/subscriptions.php:106
+msgid "Membership Options"
+msgstr ""
+
+#: classes/easywpm.profile.php:2794
+#: templates/basic/template-parts/subscriptions.php:112
+msgid "Payment Options"
+msgstr ""
+
+#: classes/easywpm.profile.php:2812
+msgid "Receive Daily Updates "
+msgstr ""
+
+#: classes/easywpm.profile.php:2817
+msgid "Yes, I want to receive daily updates. "
+msgstr ""
+
+#: classes/easywpm.profile.php:2859 classes/easywpm.profile.php:3235
+msgid "Please set a login page."
+msgstr ""
+
+#: classes/easywpm.profile.php:2863
+msgid "Already have an account?"
+msgstr ""
+
+#: classes/easywpm.profile.php:2898
+msgid "I will pay locally"
+msgstr ""
+
+#: classes/easywpm.profile.php:2920
+msgid "Pay with PayPal"
+msgstr ""
+
+#: classes/easywpm.profile.php:2936
+msgid "Pay with Credit Card"
+msgstr ""
+
+#: classes/easywpm.profile.php:2954
+msgid "Credit Card Number"
+msgstr ""
+
+#: classes/easywpm.profile.php:2960
+msgid "Expiration Date"
+msgstr ""
+
+#: classes/easywpm.profile.php:2971
+msgid "Card Security Code"
+msgstr ""
+
+#: classes/easywpm.profile.php:2996
+msgid "Login"
+msgstr ""
+
+#: classes/easywpm.profile.php:3022
+msgid "Login data"
+msgstr ""
+
+#: classes/easywpm.profile.php:3034
+msgid "Type your Username or Email"
+msgstr ""
+
+#: classes/easywpm.profile.php:3073
+msgid "Please set a password reset page."
+msgstr ""
+
+#: classes/easywpm.profile.php:3077
+msgid "Forgot Password?"
+msgstr ""
+
+#: classes/easywpm.profile.php:3087
+msgid "Please set a registration page."
+msgstr ""
+
+#: classes/easywpm.profile.php:3091
+msgid "Don't you have an account?"
+msgstr ""
+
+#: classes/easywpm.profile.php:3124
+msgid "Recover Password"
+msgstr ""
+
+#: classes/easywpm.profile.php:3157
+msgid "Type your new password"
+msgstr ""
+
+#: classes/easywpm.profile.php:3158
+msgid "Re-Type your password"
+msgstr ""
+
+#: classes/easywpm.profile.php:3172
+msgid "Recover your password"
+msgstr ""
+
+#: classes/easywpm.profile.php:3199
+msgid "Type your new password again"
+msgstr ""
+
+#: classes/easywpm.profile.php:3224
+msgid "Confirm"
+msgstr ""
+
+#: classes/easywpm.profile.php:3239
+msgid "Login to your account?"
+msgstr ""
+
+#: classes/easywpm.profile.php:3304
+msgid ""
+" Success!! The new password has been changed. Please click on the login link "
+"to get in your account."
+msgstr ""
+
+#: classes/easywpm.profile.php:3310
+msgid " ERROR! Invalid reset link "
+msgstr ""
+
+#: classes/easywpm.user.php:58
+msgid "Department"
+msgstr ""
+
+#: classes/easywpm.user.php:61
+msgid "Last Replier"
+msgstr ""
+
+#: classes/easywpm.user.php:65
+msgid "Last Update"
+msgstr ""
+
+#: classes/easywpm.user.php:66
+msgid "Priority"
+msgstr ""
+
+#: classes/easywpm.user.php:116
+msgid "There are no subscriptions ."
+msgstr ""
+
+#: templates/basic/template-parts/account-billing.php:19
+msgid "Billing & Shipping Information"
+msgstr ""
+
+#: templates/basic/template-parts/account.php:19
+msgid "My Account"
+msgstr ""
+
+#: templates/basic/template-parts/account.php:26
+msgid "Update your Password"
+msgstr ""
+
+#: templates/basic/template-parts/account.php:31
+msgid "Type your New Password"
+msgstr ""
+
+#: templates/basic/template-parts/account.php:34
+msgid "Re-type your New Password"
+msgstr ""
+
+#: templates/basic/template-parts/account.php:39
+msgid "RESET PASSWORD"
+msgstr ""
+
+#: templates/basic/template-parts/account.php:49
+msgid "Update Your Email"
+msgstr ""
+
+#: templates/basic/template-parts/account.php:54
+msgid "Type your New Email"
+msgstr ""
+
+#: templates/basic/template-parts/account.php:59
+msgid "CHANGE EMAIL"
+msgstr ""
+
+#: templates/basic/template-parts/main.php:81
+#: templates/basic/template-parts/subscriptions.php:83
+msgid "You don't have active subscriptions"
+msgstr ""
+
+#: templates/basic/template-parts/order_details.php:19
+msgid "Order Details"
+msgstr ""
+
+#: templates/basic/template-parts/orders_list.php:19
+#: templates/basic/template-parts/orders_list_all.php:19
+msgid "My Orders"
+msgstr ""
+
+#: templates/basic/template-parts/subscription_detail.php:23
+msgid "Oops! You're not allowed to see this page!"
+msgstr ""
+
+#: templates/basic/template-parts/subscription_detail.php:72
+msgid ""
+"Thank you for your purchase!. Below you will find information about your "
+"recent purchase. "
+msgstr ""
+
+#: templates/basic/template-parts/subscriptions.php:21
+msgid "My Subscriptions"
+msgstr ""
+
+#: templates/basic/template-parts/subscriptions.php:94
+msgid "Purchase a Subscription"
+msgstr ""
+
+#: templates/basic/template-parts/upload_avatar.php:19
+msgid "Upload Your Avatar"
+msgstr ""
+
+#: templates/basic/template-parts/upload_avatar.php:68
+msgid "'s Picture"
+msgstr ""
